@@ -1,0 +1,833 @@
+[
+  {
+    "id": "gdrive-folder:1i0vwQ_8Xz5-2FYRnkwRyHys5C9U9wBH_",
+    "type": "series",
+    "name": "Catalog",
+    "poster": "https://image.tmdb.org/t/p/w500/85NgPJnx2XbbTHTrdP3jfNaGz0Q.jpg",
+    "description": "A recently widowed workaholic clumsily navigates life with his kids, guided by his late wife's online tips. Can he ace this crash course in parenthood?",
+    "background": "https://image.tmdb.org/t/p/w1280/eJJK3xoZzVnOfZSXSG8cpu2MsyX.jpg"
+  },
+  {
+    "id": "gdrive-folder:17BIrfNCN2uMMAN1_vOQhbfmNudVvfKi6",
+    "type": "series",
+    "name": "Countdown",
+    "poster": "https://image.tmdb.org/t/p/w500/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+    "description": "A young nurse downloads an app that tells her she only has three days to live. With time ticking away and a mysterious figure haunting her, she must find a way to save her life before time runs out.",
+    "background": "https://image.tmdb.org/t/p/w1280/vb9luxoqiCogWxyeZoveTANa8P6.jpg"
+  },
+  {
+    "id": "gdrive-folder:1IXPqVt161G2mXdehSeU5K8vlKzMZTUCS",
+    "type": "series",
+    "name": "Carême",
+    "poster": "https://image.tmdb.org/t/p/w500/AoRaqmBGeJt1H23cbMatnWMMxTA.jpg",
+    "description": "Witness the rise of the world's first celebrity chef, Antonin Carême, and his descent into espionage in Napoleon-era France—where manipulation is king. With his gifts for gastronomy and seduction, he becomes the perfect weapon in a fight for power.",
+    "background": "https://image.tmdb.org/t/p/w1280/xedpbCiPxGiyusIutkhkLXx1shT.jpg"
+  },
+  {
+    "id": "gdrive-folder:1HI_dZQNpdOCcISEut60SscQ_Qdn_Df6B",
+    "type": "series",
+    "name": "Criminal Code",
+    "poster": "https://image.tmdb.org/t/p/w500/fDu0T5WE0QAoX2yAqZ1RtlWBn6I.jpg",
+    "description": "To crack the code of an investigation into a larger-than-life robbery, federal agents need to get creative.",
+    "background": "https://image.tmdb.org/t/p/w1280/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ylsEhhEXO7JCLoZHt8RQVXbXpS0Fqgoc",
+    "type": "series",
+    "name": "Cheat: Unfinished Business",
+    "poster": "https://image.tmdb.org/t/p/w500/nR2OI6h24qoloeR2kAdXfONNYdh.jpg",
+    "description": "Sun, scandal and second chances collide in this reality show in which former cheaters reconnect with their exes.",
+    "background": "https://image.tmdb.org/t/p/w1280/lRJAv7RCr4SM1rm5sY4IEEtFXO5.jpg"
+  },
+  {
+    "id": "gdrive-folder:1BjDKViAKikSdVzwWBN8pw_y4NOomuKr0",
+    "type": "series",
+    "name": "Caught",
+    "poster": "https://image.tmdb.org/t/p/w1280/3XoxZ6PhqsHTD3HbGNVhnGGMlZq.jpg",
+    "description": "Four Australian soldiers are sent on a secret mission to a war-torn country. Mistaken for Americans, they are captured by freedom fighters and produce a hostage video that goes viral. When the soldiers reach celebrity status, they realise that being caught might just be the best thing that could’ve happened to them.",
+    "background": "https://image.tmdb.org/t/p/w1280/uTSgp6I0f4Byb3wWodxEboWlLBO.jpg"
+  },
+  {
+    "id": "gdrive-folder:1HWWvT3Sk8Se2LN805JicKmmpssPLBToG",
+    "type": "series",
+    "name": "Celebrity Bear Hunt",
+    "poster": "https://image.tmdb.org/t/p/w500/l143F5lOxHtLdLrdFSteNM0P7pK.jpg",
+    "description": "Holly Willoughby hosts this competition show set in the Costa Rican jungle, where 12 celebrities become prey for legendary survival expert, Bear Grylls.",
+    "background": "https://image.tmdb.org/t/p/w1280/t0JPHmphPDH0L5tB6U2SNQkR08X.jpg"
+  },
+  {
+    "id": "gdrive-folder:1GzS1uX2chMtyryiTWDwlbMCcUMZWQTZJ",
+    "type": "series",
+    "name": "Cassandra",
+    "poster": "https://image.tmdb.org/t/p/w500/62TJdt6GlzdRbyWY9RYWjljgg3b.jpg",
+    "description": "A family moves into a vintage smart home and discovers that it's under the control of a virtual assistant — who will stop at nothing to keep them there.",
+    "background": "https://image.tmdb.org/t/p/w1280/4GAmr9BWRfVjZ3GAntm7yjVf82i.jpg"
+  },
+  {
+    "id": "gdrive-folder:10nLl-8m8ohXsZtFKxue7bszVUCFuTvBX",
+    "type": "series",
+    "name": "Strike",
+    "poster": "https://image.tmdb.org/t/p/w500/oPTJfwuMLz6Lr3suGK4584MAJAC.jpg",
+    "description": "A war veteran turned private detective operates out of a tiny office in London’s Denmark Street. Although wounded both physically and psychologically, his unique insight and background as a military police investigator prove crucial in solving complex crimes that have baffled the police. Based on the bestselling novels written by J.K. Rowling under the pseudonym Robert Galbraith.",
+    "background": "https://image.tmdb.org/t/p/w1280/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Gv8l0mXv5zLalSlXUJtYAfeVcZI3s9RD",
+    "type": "series",
+    "name": "Churchill at War",
+    "poster": "https://image.tmdb.org/t/p/w500/tsgqBgTYMqTlpJZWlJK3mdZMu7I.jpg",
+    "description": "This captivating docuseries examines Winston Churchill's pivotal role in World War II and the formative events that made him an ideal leader for the era.",
+    "background": "https://image.tmdb.org/t/p/w1280/p7yp9P2K2XHqJO1ZglXJUU1mSWb.jpg"
+  },
+  {
+    "id": "gdrive-folder:14DzSqL6keDGYDPbwL-3HjCyYM9aKL5ZF",
+    "type": "series",
+    "name": "Cold Case: Who Killed JonBenét Ramsey",
+    "poster": "https://image.tmdb.org/t/p/w500/liKrPPwkZFE4EZPVoVKzXWDNG6R.jpg",
+    "description": "Police missteps and a media circus derailed the JonBenét Ramsey murder case. This definitive docuseries chronicles the decades-long quest for justice.",
+    "background": "https://image.tmdb.org/t/p/w1280/Wfe2X5TcpUGAypUwjy1gOhTsd9.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-Xb3788LnxGz9VbwCspfvDI0PtCnREVZ",
+    "type": "series",
+    "name": "Cruel Intentions",
+    "poster": "https://image.tmdb.org/t/p/w500/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+    "description": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+    "background": "https://image.tmdb.org/t/p/w1280/m2QvGozzKz5ux74gKocn4kFTGz1.jpg"
+  },
+  {
+    "id": "gdrive-folder:1G0LF4G-GGy0kWDx3u1TgVxw1fm8Y_XEA",
+    "type": "series",
+    "name": "Cross",
+    "poster": "https://image.tmdb.org/t/p/w500/wy8NYpq3k4izodX5YOYmExKfHMe.jpg",
+    "description": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+    "background": "https://image.tmdb.org/t/p/w1280/v1hqncj250WcVeVs5RXzQ3ekwMA.jpg"
+  },
+  {
+    "id": "gdrive-folder:16-SrQYyGykLuFzIyclSYLVc5qClLsmnL",
+    "type": "series",
+    "name": "Citadel Honey Bunny",
+    "poster": "https://image.tmdb.org/t/p/w500/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg",
+    "description": "When stuntman Bunny recruits struggling actress Honey for a side gig, they are hurled into a high-stakes world of action, espionage and betrayal. Years later, as their dangerous past catches up, the estranged Honey and Bunny must reunite and fight to protect their young daughter Nadia.",
+    "background": "https://image.tmdb.org/t/p/w1280/c1zX0L9X2UXeOemCg8FSDReMO6G.jpg"
+  },
+  {
+    "id": "gdrive-folder:1uRZAzVi_yDh8V1I6eSZmfclyhpk03t5C",
+    "type": "series",
+    "name": "Citadel: Diana",
+    "poster": "https://image.tmdb.org/t/p/w500/pXfgTz0uYUfYVEiJ0gRra6tKoAp.jpg",
+    "description": "Milan, 2030: Diana Cavalieri is a double agent for the secret syndicate Citadel, who infiltrated Manticore, the rival agency that destroyed Citadel eight years ago. Trapped behind enemy lines, Diana has a chance to leave the agency forever, but she has to decide whether to trust a surprising ally: the heir of Manticore Italy, Edo Zani.",
+    "background": "https://image.tmdb.org/t/p/w1280/xsKGPcEnwTPI2CS3OrBVIEUzi1E.jpg"
+  },
+  {
+    "id": "gdrive-folder:1vvzEqNEVs0wJpjsBP5JNUiiKMUnyErd_",
+    "type": "series",
+    "name": "Call Me Bae",
+    "poster": "https://image.tmdb.org/t/p/w500/qdWoYn4KOiZNjR4EOHUsNjamzJ0.jpg",
+    "description": "Bae, billionaire fashionista is disowned by her ultra-rich family, owing to a salacious scandal and for the first time in her life, has to fend for herself. On this journey, she overcomes stereotypes and discovers who she really is.",
+    "background": "https://image.tmdb.org/t/p/w1280/fZXW2QPESgq0nls3KI8KmpN94RI.jpg"
+  },
+  {
+    "id": "gdrive-folder:1DDRgGPVgZ4Y_s57UmAiMvkMObVtZJQPX",
+    "type": "series",
+    "name": "Chastity High",
+    "poster": "https://image.tmdb.org/t/p/w500/oIqmjlpt2dXEAExCOqTzsWjf0tJ.jpg",
+    "description": "When an ultra-elite high school enforces a strict \"No Romance\" rule that expels anyone caught dating, a student secretly helps her classmates for cash.",
+    "background": "https://image.tmdb.org/t/p/w1280/wIMpFFDFwzgeL2kgfZ9Bbdb4pl.jpg"
+  },
+  {
+    "id": "gdrive-folder:1QgZc5tNoEQ2nLFaeRiOeHl8nwd7sqTU_",
+    "type": "series",
+    "name": "Classified",
+    "poster": "https://image.tmdb.org/t/p/w500/o5zHDxx9aGtg0bK9gVghik8ohYb.jpg",
+    "description": "Operating alone in the field for more than 20 years, a CIA hitman uses the \"Help Wanted\" section of the newspapers to get his orders from the Agency. His long-lost daughter, now a UK MI6 analyst, tracks him down to deliver shocking news: his CIA boss has been dead for years and the division long since shut down. Together, they set out to discover whose orders he's been executing.",
+    "background": "https://image.tmdb.org/t/p/w1280/dSN3zXRe2QdcdXfvQoPP85lqeUw.jpg"
+  },
+  {
+    "id": "gdrive-folder:1AJPl5ZYJm1ikgozR5Js979-9fbrfQwj5",
+    "type": "series",
+    "name": "Cathedral of the Sea",
+    "poster": "https://image.tmdb.org/t/p/w500/nEO1n2PVuKhY9BGl8KKNvyj0K7n.jpg",
+    "description": "In the 14th century, Barcelona is experiencing one of its most prosperous moments. The city has grown to La Ribera, a fishing district in which the largest Marian temple ever known is built: Santa María del Mar. But the construction runs parallel to Arnau Estanyol, a serf of the land who, fleeing the abuses of The feudal lords of the countryside take refuge in Barcelona.",
+    "background": "https://image.tmdb.org/t/p/w1280/jxAVpqWPfNHoAmYgdWD2lrVDaAY.jpg"
+  },
+  {
+    "id": "gdrive-folder:1aiOYU4FoNGn0Pr3lTJZTZAFJ8tlD_L6j",
+    "type": "series",
+    "name": "Chuck",
+    "poster": "https://image.tmdb.org/t/p/w500/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
+    "description": "When Buy More computer geek Chuck Bartowski unwittingly downloads a database of government information and deadly fighting skills into his head, he becomes the CIA's most vital secret. This sets Chuck on a path to become a full-fledged spy.",
+    "background": "https://image.tmdb.org/t/p/w1280/zP5SftyPx2VCdly369kTVVNIcT3.jpg"
+  },
+  {
+    "id": "gdrive-folder:1WxEihU4nV_A23mB-GqLvjaTiOVlU0ara",
+    "type": "series",
+    "name": "Strike",
+    "poster": "https://image.tmdb.org/t/p/w500/oPTJfwuMLz6Lr3suGK4584MAJAC.jpg",
+    "description": "A war veteran turned private detective operates out of a tiny office in London’s Denmark Street. Although wounded both physically and psychologically, his unique insight and background as a military police investigator prove crucial in solving complex crimes that have baffled the police. Based on the bestselling novels written by J.K. Rowling under the pseudonym Robert Galbraith.",
+    "background": "https://image.tmdb.org/t/p/w1280/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg"
+  },
+  {
+    "id": "gdrive-folder:1yxDY3ytSxpbLsCppStb24rH-ZxkviVW5",
+    "type": "series",
+    "name": "Covert Affairs",
+    "poster": "https://image.tmdb.org/t/p/w500/pRWUGSGdByQHW93DH2braqkRjZa.jpg",
+    "description": "A young CIA operative, Annie Walker, is mysteriously summoned to headquarters for duty as a field operative. While Annie believes she's been promoted for her exceptional linguistic skills, there may be something or someone from her past that her CIA bosses are really after. Auggie Anderson is a CIA military intelligence agent who was blinded while on assignment and is Annie's guide in this world of bureaucracy, excitement and intrigue.",
+    "background": "https://image.tmdb.org/t/p/w1280/rOigzdLeQedRF4ebFQMHELjfINC.jpg"
+  },
+  {
+    "id": "gdrive-folder:1eF1eou2zjN9SC9NbK76ROFSAbpmunqJk",
+    "type": "series",
+    "name": "Crooks",
+    "poster": "https://image.tmdb.org/t/p/w500/A9PW9NTRAzCzw6w19BITykIAipi.jpg",
+    "description": "A priceless coin puts rival gangs across Europe at odds, forcing a retired safecracker to team up with a two-bit gangster for one last heist.",
+    "background": "https://image.tmdb.org/t/p/w1280/uuTygXpNLEUhfies5ngOdT0cbQH.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Ahzs3AD75t5hSnH6DDI07er_vXMA0yoT",
+    "type": "series",
+    "name": "Cult Justice",
+    "poster": "https://image.tmdb.org/t/p/w500/mvOfi80QtxdsErw00ywB47Bs4QE.jpg",
+    "description": "Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice. Through the lens of the criminal justice system, every episode takes viewers deep inside a different modern-day cult. And—from sex trafficking and forced labour, to extortion, polygamy, and even murder—introduces the journalists, law enforcement agents, and prosecutors who gradually built the case against them. Meanwhile, brave survivors share first-hand accounts of how they were born or lured into the fold by twisted ideologies and false promises—and how they ultimately helped bring down these false prophets who thought they were above the law.",
+    "background": "https://image.tmdb.org/t/p/w1280/s8uiErAFf4VqoHA5XufrlF4Kk0P.jpg"
+  },
+  {
+    "id": "gdrive-folder:1GiWGRzAeH0HjI2bvwmZY2N7xUQgJecrF",
+    "type": "series",
+    "name": "Constellation",
+    "poster": "https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
+    "description": "When a fatal accident occurs on board the International Space Station, a lone astronaut makes the heroic journey back to Earth, only to discover key pieces of her life—including her young daughter—have changed.",
+    "background": "https://image.tmdb.org/t/p/w1280/pIGLdSGbdBAKu5diYFkU5nLpXkI.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ePwyn6YaS-FtGGE7SsHoemufeQ6hc-wP",
+    "type": "series",
+    "name": "CSI: Vegas",
+    "poster": "https://image.tmdb.org/t/p/w500/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg",
+    "description": "Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.",
+    "background": "https://image.tmdb.org/t/p/w1280/aP0V3qTB1iy3JW90EKVpLPNhMia.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-vuXIBeN_wbTvkIkmDZKtUDSlz5I4XMI",
+    "type": "series",
+    "name": "Counterpart",
+    "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+    "description": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
+    "background": "https://image.tmdb.org/t/p/w1280/z2Q4lX7E76BuZMOOZrq4trz91j8.jpg"
+  },
+  {
+    "id": "gdrive-folder:16LQirPv26WHxWjnh5TRcPDJATbZx9Oyb",
+    "type": "series",
+    "name": "Condor",
+    "poster": "https://image.tmdb.org/t/p/w500/28cIK70tN2t4gPTV8CBQZED1H2G.jpg",
+    "description": "Young CIA analyst Joe Turner has his idealism tested when he learns that the CIA has been using an algorithm he developed to spy on American citizens, leading the organization to a terrorist plot that threatens the lives of millions.  Inspired by Sydney Pollack’s 1975 political thriller Three Days of the Condor.",
+    "background": "https://image.tmdb.org/t/p/w1280/fc9ebsTmVCvv6jjD2qT7rWazaej.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ZPGvnWbsH1WpfhvqqmbDqZUnhyPNWX6i",
+    "type": "series",
+    "name": "Call Your Mother",
+    "poster": "https://image.tmdb.org/t/p/w500/xdtYChabx06Skimt3tIeMvmQgNK.jpg",
+    "description": "An empty-nester mom wonders how she ended up alone while her children live their best lives thousands of miles away. She decides her place is with her family and as she reinserts herself into their lives, her kids realize they might actually need her more than they thought.",
+    "background": "https://image.tmdb.org/t/p/w1280/esrbAJTIYQmouTE4lwlwuNRZeMz.jpg"
+  },
+  {
+    "id": "gdrive-folder:1N65cVvdv-YtP6znZkYbZn_XSH9RiUi8G",
+    "type": "series",
+    "name": "Carol & the End of the World",
+    "poster": "https://image.tmdb.org/t/p/w500/eqXQL8XGvL2tn2NfXKirBHQKo2d.jpg",
+    "description": "As a planetary apocalypse looms, a woman struggling to embrace end-times chaos searches for meaning in her last months on Earth.",
+    "background": "https://image.tmdb.org/t/p/w1280/psd3rxP1McFjpTfQVFCZLEP1vUd.jpg"
+  },
+  {
+    "id": "gdrive-folder:1r8PKPmb41Ei3UDxDA-9H1Z0jGIM0wEre",
+    "type": "series",
+    "name": "Cindy la Regia: The High School Years",
+    "poster": "https://image.tmdb.org/t/p/w500/3rPuUEKsNZE2GcYUEVlzxPZCUjX.jpg",
+    "description": "Cindy, a sharp and restless teenager, grows up happily in the high society of San Pedro Garza García in Nuevo León. When she and her longtime friends enter coeducational high school for the first time, Cindy questions the role of \"princess\" and the search for \"prince charming\" she's always been taught. In her freshman adventures, Cindy learns that pleasing others doesn't matter as much as finding herself.",
+    "background": "https://image.tmdb.org/t/p/w1280/gF0xVLxmb9zC7ioiIDJrpew6ybv.jpg"
+  },
+  {
+    "id": "gdrive-folder:1NmC8TdyXwEYNNnwZNXvVT1IDjVHnYsr-",
+    "type": "series",
+    "name": "Chamak",
+    "poster": "https://image.tmdb.org/t/p/w1280/9CEV7ZohzIbxUi6SMLb59Ey54ou.jpg",
+    "description": "The life of an aspiring young rapper Kaala who comes back to Punjab from Canada. As he unravels the death of Taara Singh - the legendary singer who was shot dead in the midst of a packed performance",
+    "background": "https://image.tmdb.org/t/p/w1280/3c3xgEUqsIwWdWeFOkB8gL4K1ib.jpg"
+  },
+  {
+    "id": "gdrive-folder:1kt7OSWGkS8Ja68RzewgWF4H1ot-mxPY-",
+    "type": "series",
+    "name": "Criminal Code",
+    "poster": "https://image.tmdb.org/t/p/w500/fDu0T5WE0QAoX2yAqZ1RtlWBn6I.jpg",
+    "description": "To crack the code of an investigation into a larger-than-life robbery, federal agents need to get creative.",
+    "background": "https://image.tmdb.org/t/p/w1280/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg"
+  },
+  {
+    "id": "gdrive-folder:1g7Rw0Qiy4gH4LdlAmRka1FyHOr9c-T2A",
+    "type": "series",
+    "name": "Crashing Eid",
+    "poster": "https://image.tmdb.org/t/p/w500/l5mTAzzXtNL96vXKswbul6tYXYD.jpg",
+    "description": "When Razan's British Pakistani fiance crashes her Saudi family's Eid celebrations, she attempts to convince them that he is a suitable match.",
+    "background": "https://image.tmdb.org/t/p/w1280/mrFXS3n8RS0ymO8GJ2DIr13c8ds.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-5pyu3IlIOVBbzRUoxDeCe8sbfqOM-Wc",
+    "type": "series",
+    "name": "Crushed",
+    "poster": "https://image.tmdb.org/t/p/w500/qBg0WRhNSCK5dYxK6XI8kD21ou1.jpg",
+    "description": "Love can be painful. Very painful. The intriguing-on-the-outside, twisted-and-tortured-on-the-inside Tara sets her sights on the unassuming guy-next-door Ray. Their innocent flirting turns into a regretful one night stand which he hopes to put behind him. Tara has different plans for their relationship."
+  },
+  {
+    "id": "gdrive-folder:1ucxr_vIZQgWfekKf4q2IDL9hgltPmzLJ",
+    "type": "series",
+    "name": "Culprits",
+    "poster": "https://image.tmdb.org/t/p/w500/gOo5KW8NAvtZdX5jdwnCTYTTpjB.jpg",
+    "description": "Family man Joe Petrus is living the American dream with his fiancé and step-kids. However, unbeknownst to them, Joe was involved in a mysterious crime three years ago and now his dangerous past is about to catch up with him. When a killer starts targeting the crew behind the crime, Joe realizes it's only a matter of time before his family is targeted. He returns to London to track down his old gang and find out who is coming after them.",
+    "background": "https://image.tmdb.org/t/p/w1280/zyTIVZ3X955XDuCECz6LccEFBJd.jpg"
+  },
+  {
+    "id": "gdrive-folder:1QEb6nRSe6Kv8OChzdHEnL7K83cxkH2ij",
+    "type": "series",
+    "name": "Cigarette Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/694BgfPfUAGBsZn9l9eiiumwXt7.jpg",
+    "description": "A gifted artisan's journey of love and self-discovery unfolds as she defies tradition within Indonesia's clove cigarette industry in the 1960s.",
+    "background": "https://image.tmdb.org/t/p/w1280/3mTFPI4gRTrRKg28H1hHRnVRWFF.jpg"
+  },
+  {
+    "id": "gdrive-folder:1atQgB2I2oXNDt2hN6WOrzaDeU7xEdYYq",
+    "type": "series",
+    "name": "Chernobyl",
+    "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "description": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "background": "https://image.tmdb.org/t/p/w1280/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg"
+  },
+  {
+    "id": "gdrive-folder:1yVlJ8kPCsRr9DSZQvsKKHx44KX9Qx_nH",
+    "type": "series",
+    "name": "Constable Girpade",
+    "poster": "https://image.tmdb.org/t/p/w500/xCURAQ6Q2ZWKqKSVyAkCtU1ezJe.jpg",
+    "description": "Newbie Constable Mandaar Ghorpade, nicknamed GIRPADE, follows in his father's footsteps and joins the police force as a lowly constable presiding over a rich Mumbai neighborhood. Girpade's father, Senior Constable Amol Ghorpade, died on the job while chasing the notorious criminal PHENYL MOHAN, who prides himself on being a master of disguise. Between his desire to apprehend Phenyl, his candid mother seeking purpose, his first love, and his quirky relationship with his Sub Inspector boss, Girpade finds himself dealing with bizarre rich people problems - one hilarious case at a time.",
+    "background": "https://image.tmdb.org/t/p/w1280/5DZkZuqvNJWdSJztv5Bt7RZsZ2V.jpg"
+  },
+  {
+    "id": "gdrive-folder:1YqxRUrjz8Zucm-HhFHB2FU95xOlg5M-v",
+    "type": "series",
+    "name": "Caught in the Net",
+    "poster": "https://image.tmdb.org/t/p/w500/jt61E2pvsexKH903PaGFnm2csHi.jpg",
+    "description": "Everyone knows something like this is happening. But this is the only experiment to fully demonstrate what excessive openness on the internet means. The filmmaking couple hired youthful-looking (but over 18) actresses to pretend to be prepubescent girls and communicate with strangers who approached them based on their fake accounts. They attracted dozens of men in the first ten days, then hundreds, and finally thousands...",
+    "background": "https://image.tmdb.org/t/p/w1280/6lJfehiHKmVSsT1s81hJNWBlMou.jpg"
+  },
+  {
+    "id": "gdrive-folder:1dbvhmu6JGdvrJHcp9wq4PoucPC5QUZEf",
+    "type": "series",
+    "name": "Choona",
+    "poster": "https://image.tmdb.org/t/p/w500/sndjLMuA00PVjxAqhEVPvE9b6rG.jpg",
+    "description": "When an unlikely group of misfits discovers a common enemy in the same ruthless yet superstitious politician, they plot a heist to exact revenge.",
+    "background": "https://image.tmdb.org/t/p/w1280/ygykAssQceF0mF6yCPyX3JqDuxO.jpg"
+  },
+  {
+    "id": "gdrive-folder:1IFsX1KQ903uyT8juRGhUjs4Kr3jUVa4T",
+    "type": "series",
+    "name": "Charlie Chopra And The Mystery Of Solang Valley",
+    "poster": "https://image.tmdb.org/t/p/w500/54ahlAyNX4nix1baLekCzutkXn7.jpg",
+    "description": "A rich man dead, a town full of suspects, narratives filled with lies and an innocent convict. How will Charlie navigate through the mystery when every face hides a secret?",
+    "background": "https://image.tmdb.org/t/p/w1280/7EXSyYrEm5BWId7GfGvXfuoACEl.jpg"
+  },
+  {
+    "id": "gdrive-folder:13DA1d21XVrUXb920i2z_EVAA1nlROTZR",
+    "type": "series",
+    "name": "Cunk on...",
+    "poster": "https://image.tmdb.org/t/p/w500/2ZEZF2IVQkaAlfC8l3Oh7j8ZjDy.jpg",
+    "description": "Landmark mockumentary-maker Philomena Cunk traces the history of Britain and Earth.",
+    "background": "https://image.tmdb.org/t/p/w1280/4nXIoy86Z5kUgKvWNZYyLEqtp7p.jpg"
+  },
+  {
+    "id": "gdrive-folder:1d9UXxsenGm-Koek-sHfQdUUBHMkzfEk6",
+    "type": "series",
+    "name": "Campus Beats",
+    "poster": "https://image.tmdb.org/t/p/w500/fQgRGizqI0IXvGggqqmiehimkEM.jpg",
+    "description": "What starts as an agenda to get closure for her past , a GenZ girl uncovers her hidden dancing talent and in the process experiences the real meaning of friendship, love, freedom and justice in a modern dance academy divided sharply across socio-economic class.",
+    "background": "https://image.tmdb.org/t/p/w1280/d7PdOq58bf4EdzT2RHs2g3EOrMF.jpg"
+  },
+  {
+    "id": "gdrive-folder:1vKSme4lyD6Z7BmOVSzjzJsS6EnEw7QFW",
+    "type": "series",
+    "name": "Class Act",
+    "poster": "https://image.tmdb.org/t/p/w1280/mOYqoV3mxrm1dr4FZ5liCtVQecM.jpg",
+    "description": "A relentlessly ambitious working-class man becomes one of France's most controversial public figures in this fictionalized biopic about Bernard Tapie.",
+    "background": "https://image.tmdb.org/t/p/w1280/eKMy8K39xU3L4GrphhQ2UmQJa14.jpg"
+  },
+  {
+    "id": "gdrive-folder:1U6OlXfdb2a1dvcODT-YJEEufih06ysTj",
+    "type": "series",
+    "name": "Curon",
+    "poster": "https://image.tmdb.org/t/p/w500/h7jcZ7GYv5KjIqN0qBNvwPO8LBQ.jpg",
+    "description": "When their mother mysteriously vanishes shortly after they all arrive in her hometown, teen twins discover secrets behind the village’s tranquil facade.",
+    "background": "https://image.tmdb.org/t/p/w1280/oy66AgNNspshYjRK00mJYBRbimn.jpg"
+  },
+  {
+    "id": "gdrive-folder:1BANddFmtYjjd137FlOtmd1zkW5qrnXD9",
+    "type": "series",
+    "name": "Commando",
+    "poster": "https://image.tmdb.org/t/p/w1280/uZaSF1lZI3unFXpbL07mL5n9Oz1.jpg",
+    "description": "When a covert mission in Pakistan goes wrong and his close friend Kshitij is captured, Commando Virat embarks on a perilous journey to rescue him.",
+    "background": "https://image.tmdb.org/t/p/w1280/gvao0WZchzudp2oMF5sjgzwHY0q.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Epd9tja2IXgAJXR6JMWGhI8eDDqtkDwE",
+    "type": "series",
+    "name": "Californication",
+    "poster": "https://image.tmdb.org/t/p/w500/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg",
+    "description": "A self-loathing, alcoholic writer attempts to repair his damaged relationships with his daughter and her mother while combating sex addiction, a budding drug problem, and the seeming inability to avoid making bad decisions.",
+    "background": "https://image.tmdb.org/t/p/w1280/9o9SS26mUY4cp4iSFk7iwBeAQuP.jpg"
+  },
+  {
+    "id": "gdrive-folder:11791Fs5slkXTfGjy7HmMjq0Tb_qceq4C",
+    "type": "series",
+    "name": "Cobra Kai",
+    "poster": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+    "description": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+    "background": "https://image.tmdb.org/t/p/w1280/zymbuoBoL1i94xAOzVJF6IuWLfD.jpg"
+  },
+  {
+    "id": "gdrive-folder:1E2maPlj6cStECre81bX7bXVRYzU57hYJ",
+    "type": "series",
+    "name": "Citadel",
+    "poster": "https://image.tmdb.org/t/p/w500/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+    "description": "What if you lost your memory? What if a spy didn’t know they were a spy? Years ago, the top agents of Citadel, Mason Kane and Nadia Sinh, had their minds wiped. But, they’re called back to action as sinister forces emerge from the past. With the help of spymaster Bernard Orlick, these former lovers must remember the past to save the future.",
+    "background": "https://image.tmdb.org/t/p/w1280/3cgRI0hOq3dYyezSYrsfdmqxtMw.jpg"
+  },
+  {
+    "id": "gdrive-folder:1LJhsw0bP9BcuFSd8R9B0RbV98fnXDN4R",
+    "type": "series",
+    "name": "Cruel Summer",
+    "poster": "https://image.tmdb.org/t/p/w500/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg",
+    "description": "Taking place over three summers - 1993, 1994, 1995 - in a small Texas town, a beautiful popular teen, Kate, is abducted and, seemingly unrelated, a girl, Jeanette, goes from being a sweet, awkward outlier to the most popular girl in town and, by ’95, the most despised person in America.",
+    "background": "https://image.tmdb.org/t/p/w1280/k4bE2C5qvnqafgi2cNx6yAoNtff.jpg"
+  },
+  {
+    "id": "gdrive-folder:1P9TxT-5Nbq7IfAjUtviQw2b9Wv90Zjge",
+    "type": "series",
+    "name": "CAT",
+    "poster": "https://image.tmdb.org/t/p/w500/aY9lY9v0zab2hn5ZWeKzLBE6Kme.jpg",
+    "description": "Living under an alias, a former police informant is summoned to infiltrate a major drug empire but uncovers a dangerous connection to his dark past.",
+    "background": "https://image.tmdb.org/t/p/w1280/vSwBMjcRClZPOmPXXOrn0lj2se3.jpg"
+  },
+  {
+    "id": "gdrive-folder:1a1m0A0Q_cbUmOH4YxnAuO2X9nxVv4xrI",
+    "type": "series",
+    "name": "City on Fire",
+    "poster": "https://image.tmdb.org/t/p/w500/uOgCKhHsQvOFVNxOUdewPwc0Z9N.jpg",
+    "description": "Ko Chow is an undercover cop who is under pressure from all sides. His boss, Inspector Lau, wants him to infiltrate a gang of ruthless jewel thieves; his girlfriend wants him to commit to marriage or she will leave Hong Kong with another lover; and he is being pursued by other cops who are unaware that he is a colleague. Chow would rather quit the force, feeling guilty about betraying gang members who have become his friends.",
+    "background": "https://image.tmdb.org/t/p/w1280/z0nG5clqGqdkiKUPMGTNiJ68m5x.jpg"
+  },
+  {
+    "id": "gdrive-folder:1l-2x0W5-E_qhve6BalDaG_SQxTfgHVhn",
+    "type": "series",
+    "name": "Chloe",
+    "poster": "https://image.tmdb.org/t/p/w500/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg",
+    "description": "A doctor hires an escort to seduce her husband, whom she suspects of cheating, though unforeseen events put the family in danger.",
+    "background": "https://image.tmdb.org/t/p/w1280/yo7rPvwjHHYDM1bw4OgTZJY6QYP.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ktD38E9llcATi4DHN8c2hN2KyuuzBZs3",
+    "type": "series",
+    "name": "Class of '09",
+    "poster": "https://image.tmdb.org/t/p/w500/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg",
+    "description": "Set in three distinct points in time, follow a class of FBI agents who grapple with immense changes as the U.S. criminal justice system is altered by artificial intelligence.",
+    "background": "https://image.tmdb.org/t/p/w1280/zhUA4iMufUZFaQmqGWXiwRUnld5.jpg"
+  },
+  {
+    "id": "gdrive-folder:103HeI6FZaJCeAMDWweEQTFMs1ejz8Q81",
+    "type": "series",
+    "name": "Criminal Justice: Behind Closed Doors",
+    "poster": "https://image.tmdb.org/t/p/w500/WthbiDf5t5q49AX0VrXCocNydZ.jpg",
+    "description": "What made Anu Chandra stab her perfect husband? The evidence and confession are clear, but what's the truth?",
+    "background": "https://image.tmdb.org/t/p/w1280/gbJ138L0ETPbjqsbEOQI1U6wo7a.jpg"
+  },
+  {
+    "id": "gdrive-folder:10lHt_50ZgDVKrdeU4zwdKIjAfgjtn631",
+    "type": "series",
+    "name": "Crash Course",
+    "poster": "https://image.tmdb.org/t/p/w1280/zUl6AVdUI04oiK1G3Xqmjpu8noh.jpg",
+    "description": "Some students taking driver's ed during the summer. Among the students is Riko, a cocky guy; Chad, a guy from a privileged background, who's terrified to get behind the wheel; Vanessa, who's over protective mom who wouldn't allow her to take the course, who went behind her back; and Maria, a spoiled foreign student. Now the principal wants the students to pass so he tells the instructor, who's still not over his wife leaving and is not exactly up to the task, that it's important for the students to pass so he brought in a special instructor, who's very tough. And the principal also tells one of his teachers to let, one of the students Maslanski who's the school football star, pass the test he failed so that he can concentrate on driver's ed. But the teacher, seeing this as an opportunity to expose the principal as not doing his job and thus paving the way for him to be the new principal, makes Maslanski take a make up test",
+    "background": "https://image.tmdb.org/t/p/w1280/tJrhT3neQdP0GAwewDzcTFmIBaH.jpg"
+  },
+  {
+    "id": "gdrive-folder:13dhr0-XAUjbEXCLu43Ae2khSnuthPn7E",
+    "type": "series",
+    "name": "Crackdown",
+    "poster": "https://image.tmdb.org/t/p/w500/4hNxv7Epe7kZI7n1bQwurijWMXx.jpg",
+    "description": "Top agent, RP, and his team are leading the charge to neutralize India’s biggest enemies. With time running out, can our secret agents eliminate the threat before it eliminates them?",
+    "background": "https://image.tmdb.org/t/p/w1280/z2vwNA4uvlCZkPgMAGXmk89PUM4.jpg"
+  },
+  {
+    "id": "gdrive-folder:10joof_NpDBQBfIGDKSGQL0j04tRbYyJj",
+    "type": "series",
+    "name": "Constantine",
+    "poster": "https://image.tmdb.org/t/p/w500/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+    "description": "A man struggling with his faith is haunted by the sins of his past but is suddenly thrust into the role of defending humanity from the gathering forces of darkness.",
+    "background": "https://image.tmdb.org/t/p/w1280/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg"
+  },
+  {
+    "id": "gdrive-folder:1DCqp307Fl9kbe5mWwCWB1uNPdITS8ByI",
+    "type": "series",
+    "name": "Channel Zero",
+    "poster": "https://image.tmdb.org/t/p/w500/oCutmhFznao1Pzy6wM1C32kxAEu.jpg",
+    "description": "A horror anthology series inspired by “Creepypasta” online tales.",
+    "background": "https://image.tmdb.org/t/p/w1280/iXxiiIuK5KGcleWRq5bTXXoYK11.jpg"
+  },
+  {
+    "id": "gdrive-folder:10dHjnmwSxFc4vx5cI0hbXvI-zkbUhC4D",
+    "type": "series",
+    "name": "Chakravyuh - An Inspector Virkar Crime Thriller",
+    "poster": "https://image.tmdb.org/t/p/w500/6fUYiQAz8pgDKfaD6X1YzaMQEm9.jpg",
+    "description": "The Chakravyuh - An Inspector Virkar Crime Thriller web series reflects on the dark side of the internet and social media. Prateik Babbar essays the role of Inspector Virkar, the protagonist. Virkar is an angry, young cop who seeks to bring justice to whoever he can. When young college students are ruthlessly murdered, Inspector Virkar gets called in. In his investigation, Virkar finds out that there is a whole system of hackers and anonymous blackmailers operating on the internet using social media sites as their hunting ground. With the help of one ethical hacker, a student counsellor and his team, Virkar try to solve the case of the outrageous murders. Will inspector Virkar be able to solve the cases in time? Can he find the answers he is looking for on the dark web? Who is behind the murders and what was their motive?",
+    "background": "https://image.tmdb.org/t/p/w1280/nNSdb85q4VVZtVSygsJ3BsizpEM.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Xcsh15fBzg9hUG_d-28Ao6FiK4hyBLYq",
+    "type": "series",
+    "name": "Country Mafia",
+    "poster": "https://image.tmdb.org/t/p/w500/xEZEiyGA64O1lzxYhVRAsJDEygi.jpg",
+    "description": "Two siblings have a dream of becoming IAS officers. But life has other plans. Watch their tale of revenge as they confront Babban, the biggest liquor baron of Bihar, for murdering their father.",
+    "background": "https://image.tmdb.org/t/p/w1280/7cxh3YhtBZ8hQ0LrBtZ6GG8w1x.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Q0TtVTlxqT8iw93OE3nwEJStwO-fgipT",
+    "type": "series",
+    "name": "Camelot",
+    "poster": "https://image.tmdb.org/t/p/w500/kT4yBlYjB0Cm6Qp9bwkjXrFPU1v.jpg",
+    "description": "Camelot is a historical-fantasy-drama television series based on the Arthurian legend, was produced by Graham King, Morgan O'Sullivan and Michael Hirst.",
+    "background": "https://image.tmdb.org/t/p/w1280/iIsRu2x3gTLoH26DGs9gpvrvqPg.jpg"
+  },
+  {
+    "id": "gdrive-folder:16B9m093PejSOXgwYgeuj_hXNfcCGOQIO",
+    "type": "series",
+    "name": "Charmed",
+    "poster": "https://image.tmdb.org/t/p/w500/doXHjfOtEmX8kEq1tsMnNqq9YLZ.jpg",
+    "description": "Set in the fictional college town of Hilltowne, Charmed follows the lives of three sisters, Macy, Mel and Maggie Vera who, after the tragic death of their mother, discover they are three of the most powerful witches of all time.",
+    "background": "https://image.tmdb.org/t/p/w1280/6n5Si0RkYehKfPaDfg1p4besZqa.jpg"
+  },
+  {
+    "id": "gdrive-folder:1XBVadkamqgGu1wsKvHFqIl-JAQDQIcA9",
+    "type": "series",
+    "name": "Chosen",
+    "poster": "https://image.tmdb.org/t/p/w500/guIOd4hzYw7yoW1haJbj4u5iTs9.jpg",
+    "description": "A 17-year-old girl's world is turned upside down when she and her friends make a disturbing discovery in their quiet Danish town.",
+    "background": "https://image.tmdb.org/t/p/w1280/3xQ3m09VfF4aGrQEFjdQzulf64K.jpg"
+  },
+  {
+    "id": "gdrive-folder:1otE-ODnxmb-dK3ZWYyepx9cx4aB4zTUo",
+    "type": "series",
+    "name": "Chucky",
+    "poster": "https://image.tmdb.org/t/p/w500/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
+    "description": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town’s hypocrisies and secrets. Meanwhile, the arrival of enemies — and allies — from Chucky’s past threatens to expose the truth behind the killings, as well as the demon doll’s untold origins.",
+    "background": "https://image.tmdb.org/t/p/w1280/xAKMj134XHQVNHLC6rWsccLMenG.jpg"
+  },
+  {
+    "id": "gdrive-folder:1LhKLRcraTqz-wv4Hhc1c7b8HeIe332rM",
+    "type": "series",
+    "name": "Chimp Empire",
+    "poster": "https://image.tmdb.org/t/p/w500/fBs6Z1QOmZSOnm1PzMjE571tQBs.jpg",
+    "description": "A vast community of chimpanzees thrives in a forest in Uganda, navigating complex social politics, family dynamics and dangerous territory disputes.",
+    "background": "https://image.tmdb.org/t/p/w1280/zghH6YyQT8Fglu7ilYy1a9A5gko.jpg"
+  },
+  {
+    "id": "gdrive-folder:17oJF0CiWZ6jsSWiWsps-BhKomGBqRrUm",
+    "type": "series",
+    "name": "Comedy Premium League",
+    "poster": "https://image.tmdb.org/t/p/w500/tnRQIeZGWParKSNCkKi1tcncwnY.jpg",
+    "description": "With satirical sketches, cheeky debates and blistering roasts, 16 of India's wittiest entertainers compete in teams to be named the ultimate comedy champs.",
+    "background": "https://image.tmdb.org/t/p/w1280/gLNv2lQmjZMzpjOri8Trfwan3Iq.jpg"
+  },
+  {
+    "id": "gdrive-folder:1UINtrRitMB30pn6JAzU5aRKaCVt6Eumy",
+    "type": "series",
+    "name": "Crime Stories: India Detectives",
+    "poster": "https://image.tmdb.org/t/p/w500/w8oUG8e72MeyGyXhGtOpau7O05q.jpg",
+    "description": "With unprecedented access to the Bengaluru City Police, this gripping series follows major criminal investigations from the moment the crime is reported through to the capture of the suspects. From murder to kidnap to extortion, each film tracks a shocking and compelling case in the heart of India's Silicon Valley. Filmed with senior officers at home and at work, this is a unique window into the lives of Bengaluru's police officers as they attempt to detect the most complex and serious crimes in the city.",
+    "background": "https://image.tmdb.org/t/p/w1280/4Uty2eaTb2ub4r4Pz4zCg0V0WDm.jpg"
+  },
+  {
+    "id": "gdrive-folder:1RQFF5P1aaikNlSlKSmpHMAqpua7MmEz_",
+    "type": "series",
+    "name": "Call My Agent Bollywood",
+    "poster": "https://image.tmdb.org/t/p/w500/iaDpI2BBF6KGLSyaBkxt1qMVWq9.jpg",
+    "description": "From pulling off casting coups to calming celebrity egos, the drama never stops for four Mumbai talent agents hustling to save their sinking company.",
+    "background": "https://image.tmdb.org/t/p/w1280/jrvtdM1olcDeL1qnVx2tyef5iVc.jpg"
+  },
+  {
+    "id": "gdrive-folder:1MiTme4Aknn4duq11EbcW8GBr09O1EeYK",
+    "type": "series",
+    "name": "Copenhagen Cowboy",
+    "poster": "https://image.tmdb.org/t/p/w500/jspobwn8SDeDC00CTfWAv4fjZmb.jpg",
+    "description": "After a lifetime of being sold as a human good luck charm, a woman with mysterious supernatural abilities seeks revenge against those who wronged her.",
+    "background": "https://image.tmdb.org/t/p/w1280/oDNtE32GYBDtVGyxeigIoUa8XHq.jpg"
+  },
+  {
+    "id": "gdrive-folder:1WiOs1z1RpmIuZYZ1Y3z0nlroAL4tiffM",
+    "type": "series",
+    "name": "Copycat Killer",
+    "poster": "https://image.tmdb.org/t/p/w500/xSkcZk9bh1wIkP2vpMA47Bdl6UI.jpg",
+    "description": "When a spate of grisly murders throws a city into chaos, a tenacious prosecutor must brace for a cat-and-mouse game against a dangerous manipulator.",
+    "background": "https://image.tmdb.org/t/p/w1280/qGILaGrR0Oc9d3lVpwZ6M7yWq5z.jpg"
+  },
+  {
+    "id": "gdrive-folder:1WZkVpgX-XfY_OEzndF0hL_sck6xkKW2A",
+    "type": "series",
+    "name": "Catching Lightning",
+    "poster": "https://image.tmdb.org/t/p/w500/4fg3EcTVM4c2qEFGetY4TivSAKi.jpg",
+    "description": "The story of MMA fighter, 'Lightning' Lee Murray, who brawled his way from the mean streets of South London all the way to the UFC - and then took part one of the largest bank heists of all-time.",
+    "background": "https://image.tmdb.org/t/p/w1280/ze9HXaMPbgUTre3CFpKbwV2MQgB.jpg"
+  },
+  {
+    "id": "gdrive-folder:19pchd6rEXyr1okh9OA7MnG9buVIaPn7B",
+    "type": "series",
+    "name": "Creepshow",
+    "poster": "https://image.tmdb.org/t/p/w500/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg",
+    "description": "Five grisly tales from a 1950s-style comic, including a murdered father rising from beyond, a bizarre meteor, a vengeful husband, a mysterious crate's occupant, and a plague of cockroaches.",
+    "background": "https://image.tmdb.org/t/p/w1280/8aqTmCHLkktH7RZNALeaOMneHSl.jpg"
+  },
+  {
+    "id": "gdrive-folder:1YkRGCjUHuKKMlyIP8lmVdi-i6Ag3hzy7",
+    "type": "series",
+    "name": "Curiosity",
+    "poster": "https://image.tmdb.org/t/p/w1280/miRzqPmVPd91VOKOIZqHzLFgPkF.jpg",
+    "description": "On a quiet night, a young couple find themselves caught up in a nightmarish ordeal after they witness a murderer disposing of a body in this claustrophobic thriller.",
+    "background": "https://image.tmdb.org/t/p/w1280/llqpj5tENrmyPpOX6SBWzEj6i6Y.jpg"
+  },
+  {
+    "id": "gdrive-folder:1kGAJ8HRBhqerUgIHVqNlsTtcXaqKOESY",
+    "type": "series",
+    "name": "Conversations with Friends",
+    "poster": "https://image.tmdb.org/t/p/w500/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
+    "description": "Two college students, Frances and Bobbi, forge a strange and unexpected relationship with a married couple.",
+    "background": "https://image.tmdb.org/t/p/w1280/zVtgdo5DWXThOUVLO48q98QWHay.jpg"
+  },
+  {
+    "id": "gdrive-folder:1SOsmGMDZJMkNRstVwn_ZF7hp7CS5pXS3",
+    "type": "series",
+    "name": "Continuum",
+    "poster": "https://image.tmdb.org/t/p/w500/s2rTk8cNuaeyaLhrd3PIKCFyYZ9.jpg",
+    "description": "The series centers on the conflict between a group of rebels from the year 2077 who time-travel to Vancouver, BC, in 2012, and a police officer who accidentally accompanies them. In spite of being many years early, the rebel group decides to continue its violent campaign to stop corporations of the future from replacing governments, while the police officer endeavours to stop them without revealing to anyone that she and the rebels are from the future.",
+    "background": "https://image.tmdb.org/t/p/w1280/vNwCFyc5Y2Mrtu94L95KoZHKQ8y.jpg"
+  },
+  {
+    "id": "gdrive-folder:1KHxe-nzqGRLAwmKVYAzXXwIpzqJh44UB",
+    "type": "series",
+    "name": "Community",
+    "poster": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+    "description": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
+    "background": "https://image.tmdb.org/t/p/w1280/OylSdzVezjwGLYM0w73mUPNHM4.jpg"
+  },
+  {
+    "id": "gdrive-folder:10F_OMMg2R7J0X2S1qNe9XC4fYLLHoREY",
+    "type": "series",
+    "name": "City on a Hill",
+    "poster": "https://image.tmdb.org/t/p/w500/rxa00ipClA8SUQxTdZQOyt2NlB8.jpg",
+    "description": "In early 90s Boston, an African-American District Attorney comes in from Brooklyn advocating change and forms an unlikely alliance with a corrupt yet venerated FBI veteran invested in maintaining the status quo. Together they take on a family of armored car robbers from Charlestown in a case that grows to encompass and eventually upend Boston’s city-wide criminal justice system.",
+    "background": "https://image.tmdb.org/t/p/w1280/yFa7wVytud4D7BDp5e5yk8mLwpK.jpg"
+  },
+  {
+    "id": "gdrive-folder:1t3_7oWwt6HaAUmV0dhcXiIXO2qfzzseM",
+    "type": "series",
+    "name": "Close to the Enemy",
+    "poster": "https://image.tmdb.org/t/p/w500/kKPgGgKcw3bN7PO8mNJpGQAQPAL.jpg",
+    "description": "A British intelligence officer has to ensure that a captured German scientist helps the British develop jet aircraft.",
+    "background": "https://image.tmdb.org/t/p/w1280/c0Lz0Ro2eXrfL4OaJY99Mv95uJn.jpg"
+  },
+  {
+    "id": "gdrive-folder:1n0JRUXAfRXhVJT-4SnjIk_t0XATXYwOI",
+    "type": "series",
+    "name": "Chasing Life",
+    "poster": "https://image.tmdb.org/t/p/w500/divzwWoDznYdqn0FtwyPuQfacg6.jpg",
+    "description": "April, an aspiring journalist, is balancing her ambitious career with her family and a new office romance. In an unexpected twist of fate, April learns that she has leukemia.",
+    "background": "https://image.tmdb.org/t/p/w1280/8v2hM6n6TuITPfT5Mhb66hpBQFL.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Whb0G0QUKs1FKHmrSgzFNsQXguOYjU8-",
+    "type": "series",
+    "name": "Chacha Vidhayak Hain Humare",
+    "poster": "https://image.tmdb.org/t/p/w500/thMrz42QAhKOvf7dZu64LVvSeS4.jpg",
+    "description": "Ronny Bhaiya leads a double life - To the world he is the nephew of the MLA - and likes to think of himself as a Jann Neta, and at home he is the jobless 26 year old with no sense of responsibility to his family. The show explores Ronny's adventures as he gets stuck in multiple situations because of this big lie that precedes him.",
+    "background": "https://image.tmdb.org/t/p/w1280/luv5GymCHeblWQ3FPRHUdtyXPW.jpg"
+  },
+  {
+    "id": "gdrive-folder:1zZOxsoMDxm-96aRq7Pc3-dnLTFOGb_G4",
+    "type": "series",
+    "name": "Candy",
+    "poster": "https://image.tmdb.org/t/p/w500/9DvrEg2p3Hrdr1uGe0t7kRraWjl.jpg",
+    "description": "A poet falls in love with an art student, who gravitates to his bohemian lifestyle — and his love of heroin. Hooked as much on one another as they are on the drug, their relationship alternates between states of oblivion, self-destruction, and despair.",
+    "background": "https://image.tmdb.org/t/p/w1280/r8J1GUYKfNFQhpg3dMhXwtmr6PL.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ZSVjuJ4j0FKSzH5t9tCuWWFMQ0MgWJaQ",
+    "type": "series",
+    "name": "Code M",
+    "poster": "https://image.tmdb.org/t/p/w500/x1tG6iuR0sr9mvbTHDP2pVjwd38.jpg",
+    "description": "Miltary lawyer,Major Monica Mehra,is roped in to solve, what seems like an open and shut case, of the death of an army officer, killed by militants in an encounter. The truth is far from what it appears to be. Will she crack the code?",
+    "background": "https://image.tmdb.org/t/p/w1280/vg1awUPTbcOSDz4TuxmHbmWxt2x.jpg"
+  },
+  {
+    "id": "gdrive-folder:1kzOI94NdWqbmq9xQybqafF4JHGqelM8G",
+    "type": "series",
+    "name": "Campus Diaries",
+    "poster": "https://image.tmdb.org/t/p/w500/6qqSKYXHI8lwgIBztBCZqgvw5u6.jpg",
+    "description": "Campus Diaries is a coming-of-age drama of six students at Excel University. But this one is so-not-your-regular-college-drama because it goes beyond the routine frolic and friendship plots that quintessential youth dramas portray and tackles relevant yet lesser discussed issues like ragging, discrimination based on societal biases, one sided love stories, rampant drug abuse and toxic relationships that mould your personality and ready you to face the real world.",
+    "background": "https://image.tmdb.org/t/p/w1280/1kxTGi8xbT3HvrudmPhe3xQeYnn.jpg"
+  },
+  {
+    "id": "gdrive-folder:1yZwT7vck1uot5yqHTV6YgcweMs3_mNfv",
+    "type": "series",
+    "name": "College Romance",
+    "poster": "https://image.tmdb.org/t/p/w500/lCvYGef9G5aj3jeoLW79f79O5I4.jpg",
+    "description": "College Romance is a story of three BFF's : Karan, Trippy and Naira ; who fall in love and their ridiculous romantic stories take off.",
+    "background": "https://image.tmdb.org/t/p/w1280/wcG3zqTmzvrKaiFDs7GU3j3s01S.jpg"
+  },
+  {
+    "id": "gdrive-folder:1yWn_8wzuOpwxnbwTH9PSRCfcKo0jyslc",
+    "type": "series",
+    "name": "City of Dreams",
+    "poster": "https://image.tmdb.org/t/p/w500/f1uYNCBNHpLUuhh5FK82gcKY8RA.jpg",
+    "description": "An assassination attempt on Mumbai's most powerful politician triggers a dirty game of power and politics in the Gaikwad family.  With his son and daughter racing to the throne, lines between moral and immoral blur and a lot is at stake",
+    "background": "https://image.tmdb.org/t/p/w1280/66YnmARoycXYxpQUkK1lK6YZZAt.jpg"
+  },
+  {
+    "id": "gdrive-folder:1zYc4R1miorVdEdg3THZRbc7Jlr7zaqOW",
+    "type": "series",
+    "name": "Criminal Justice",
+    "poster": "https://image.tmdb.org/t/p/w500/eac9ylXW2mazqOI5L50uY9Rvmxr.jpg",
+    "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+    "background": "https://image.tmdb.org/t/p/w1280/hfkTZuQAYtrCkwEhV8c4K0xmU2c.jpg"
+  },
+  {
+    "id": "gdrive-folder:1v-fxCURwt4DZlen4lP5rCM7ehAopXF30",
+    "type": "series",
+    "name": "Class of '07",
+    "poster": "https://image.tmdb.org/t/p/w500/cA678fpae4Qz1IWoWh8lRQ5F1DM.jpg",
+    "description": "When an apocalyptic tidal wave hits during the ten-year reunion of an all-girls high school, a group of women must find a way to survive on the island peak of their high school campus.",
+    "background": "https://image.tmdb.org/t/p/w1280/wfgE9ARuU3JNGoNH4tc9X6V4EMv.jpg"
+  },
+  {
+    "id": "gdrive-folder:1XQ9WtQpCgDvJRyrXeTdqjZPaA5rYub0f",
+    "type": "series",
+    "name": "Calls",
+    "poster": "https://image.tmdb.org/t/p/w500/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg",
+    "description": "Interconnected phone conversations chronicle the mysterious story of a group of strangers whose lives are thrown into disarray in the lead-up to an apocalyptic event.",
+    "background": "https://image.tmdb.org/t/p/w1280/5iowcSjAdlzrl9OnNACyAxRBNAM.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Vfo4X_3O7RiDgY2FrhHbkjP8NIpXTh_r",
+    "type": "series",
+    "name": "Circuit Breakers",
+    "poster": "https://image.tmdb.org/t/p/w500/gmvaWodMFeFx4eIeb6AH6dTcWO1.jpg",
+    "description": "Curiosity leads to chaos when students in the near future experience mysterious events.",
+    "background": "https://image.tmdb.org/t/p/w1280/cvGVLYFLBI58zQJ4KPs5bKbEIa8.jpg"
+  },
+  {
+    "id": "gdrive-folder:1SrDAAcsYJSWJKHuOVZ-3J2OwGxs2vAQk",
+    "type": "series",
+    "name": "Curb Your Enthusiasm",
+    "poster": "https://image.tmdb.org/t/p/w500/ziRhqatQtp2mlwCxT4YfylbZ9Ds.jpg",
+    "description": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
+    "background": "https://image.tmdb.org/t/p/w1280/u98PeujOJCXCowph9mxRzo9Nw1s.jpg"
+  },
+  {
+    "id": "gdrive-folder:1YgZzFmx88_5iYJQv_gHJ68b95CecqK_4",
+    "type": "series",
+    "name": "Cursed",
+    "poster": "https://image.tmdb.org/t/p/w500/wrLC5kx0nEq9U0MyJD7dnOT6m5F.jpg",
+    "description": "In this fresh take on the Arthurian legend, teenager Nimue joins forces with mercenary Arthur on a quest to find Merlin and deliver an ancient sword.",
+    "background": "https://image.tmdb.org/t/p/w1280/uzUPwWSAheYKdavFCcod9M6y2rf.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Udri2qdCNdIDlaOYZc38rfQGz_VRpBaC",
+    "type": "series",
+    "name": "Chilling Adventures of Sabrina",
+    "poster": "https://image.tmdb.org/t/p/w500/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+    "description": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night.",
+    "background": "https://image.tmdb.org/t/p/w1280/aPsyg7Q9xSUy3AshffqwWPc69Ir.jpg"
+  },
+  {
+    "id": "gdrive-folder:1UX9bCNoYJA5ZktaS6U2RNJ6sH2DwpdVk",
+    "type": "series",
+    "name": "Clickbait",
+    "poster": "https://image.tmdb.org/t/p/w500/igILG72fleSQEQscnF985ndkVNi.jpg",
+    "description": "When family man Nick Brewer is abducted in a crime with a sinister online twist, those closest to him race to uncover who is behind it and why.",
+    "background": "https://image.tmdb.org/t/p/w1280/2CIpC7glUacb1urK8Rdr6O2rZnc.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ZbcgywZzu14SohY8Myqq3RxgOHvPkNdz",
+    "type": "series",
+    "name": "Castle Rock",
+    "poster": "https://image.tmdb.org/t/p/w500/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
+    "description": "Based on the stories of Stephen King, the series intertwines characters and themes from the fictional town of Castle Rock.",
+    "background": "https://image.tmdb.org/t/p/w1280/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg"
+  },
+  {
+    "id": "gdrive-folder:10zt-3-olG5ygX03iqfdqh5hNWXTRm_6D",
+    "type": "series",
+    "name": "Criminal: UK",
+    "poster": "https://image.tmdb.org/t/p/w500/bfsLO69G3ly9OyPlUxWFxgjbrLt.jpg",
+    "description": "Within the walls of an interrogation room, London investigators question suspects accused of grievous crimes until the truth comes to light.",
+    "background": "https://image.tmdb.org/t/p/w1280/3BrydJp2XpdWevRbMP8ZZ0xJYrj.jpg"
+  },
+  {
+    "id": "gdrive-folder:120ernj0X5tm_2Pgro6mqOTRnb8ElJgGI",
+    "type": "series",
+    "name": "Cracow Monsters",
+    "poster": "https://image.tmdb.org/t/p/w500/bBzkreVliFn18zFBjysanZnC3Yq.jpg",
+    "description": "A young woman haunted by her past joins a mysterious professor and his group of gifted students who investigate paranormal activity — and fight demons.",
+    "background": "https://image.tmdb.org/t/p/w1280/gllWAJDTMg83D2KtxtHGV8XFdZo.jpg"
+  },
+  {
+    "id": "gdrive-folder:12aw4XwrF-drOes2vblwi0DDt7sJRtHc6",
+    "type": "series",
+    "name": "Cowboy Bebop",
+    "poster": "https://image.tmdb.org/t/p/w500/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg",
+    "description": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
+    "background": "https://image.tmdb.org/t/p/w1280/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg"
+  },
+  {
+    "id": "gdrive-folder:11A8gVmHCfgeXMueHqLYPI7scLTWaHcD4",
+    "type": "series",
+    "name": "Country Comfort",
+    "poster": "https://image.tmdb.org/t/p/w500/qzutbxi3Ki66Un16KCfZI2vwELk.jpg",
+    "description": "When an up-and-coming young country singer accepts a job as a nanny with a musical family, she finds the bond she's always missed.",
+    "background": "https://image.tmdb.org/t/p/w1280/5psyZg3ETZbMpsQD7EjbFXCjQf3.jpg"
+  },
+  {
+    "id": "gdrive-folder:105j-d8kZ7PGEaCrn8OH422N5vJLCzHpy",
+    "type": "series",
+    "name": "Cosmos",
+    "poster": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+    "description": "Famed astrophysicist Neil deGrasse Tyson provides clarity for the vision of the cosmos as he voyages across the universe with never-before-told stories that delve into the scientific concepts of the laws of gravity and the origins of space and time.",
+    "background": "https://image.tmdb.org/t/p/w1280/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg"
+  },
+  {
+    "id": "gdrive-folder:11j5x7--Nxt9KQhXJ0HPN_Quk0jxi1kq8",
+    "type": "series",
+    "name": "Control Z",
+    "poster": "https://image.tmdb.org/t/p/w500/oEDU7EGbmS6f7kpMmViyGHMfhwp.jpg",
+    "description": "When a hacker begins releasing students' secrets to the entire high school, the socially isolated but observant Sofía works to uncover his/her identity.",
+    "background": "https://image.tmdb.org/t/p/w1280/gFFedWBZ7s5sPiR9A1IpileWuFf.jpg"
+  },
+  {
+    "id": "gdrive-folder:17m8qgqFXR4-QAb3dwVBAzhdtYIpNjxW1",
+    "type": "series",
+    "name": "Carnival Row",
+    "poster": "https://image.tmdb.org/t/p/w500/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg",
+    "description": "In a mystical and dark city filled with humans, fairies and other creatures, a police detective investigates a series of gruesome murders leveled against the fairy population. During his investigation, the detective becomes the prime suspect and must find the real killer to clear his name.",
+    "background": "https://image.tmdb.org/t/p/w1280/7gfLuaqVBdtNxKIxp9uc8sOUlQg.jpg"
+  },
+  {
+    "id": "gdrive-folder:1mQ-RWA1ols5V3xyXnrc34t_nY8FMYQj-",
+    "type": "series",
+    "name": "Class",
+    "poster": "https://image.tmdb.org/t/p/w500/iDFeOVxNOSmAcsdmvtt4kZWB8GA.jpg",
+    "description": "Naive Midwestern prep student Jonathan bonds with his more worldly roommate, Skip, who takes the small-town boy under his wing. At Skip's urging, the inexperienced Jonathan is emboldened to seek out older women in the cocktail lounges of nearby Chicago, where he meets and beds the alluring Ellen, who unfortunately turns out to be Skip's mother. The division between the friends is further deepened when a cheating scandal engulfs the school.",
+    "background": "https://image.tmdb.org/t/p/w1280/iNqjagxLOK3OMC7znXqwBlGAThV.jpg"
+  }
+]

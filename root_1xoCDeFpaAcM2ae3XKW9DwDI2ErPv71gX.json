@@ -1,0 +1,920 @@
+[
+  {
+    "id": "gdrive-folder:1AqWJmox7yKgYmY0fsrnPmR1yKdiBBSgD",
+    "type": "series",
+    "name": "Mob War: Philadelphia vs. the Mafia",
+    "poster": "https://image.tmdb.org/t/p/w500/kBKVnDdY5oBapK24XMRZNMU1DGS.jpg",
+    "description": "Philadelphia is the City of Brotherly Love, but in the '90s, it was a bloodbath. Two warring mob factions battle for control in this true-crime series.",
+    "background": "https://image.tmdb.org/t/p/w1280/dEvbe7rj6vdcbMpZUn1pE682qjh.jpg"
+  },
+  {
+    "id": "gdrive-folder:1D5zlX2YgIJNDRNtazS6jMGIU6KUOl1xd",
+    "type": "series",
+    "name": "Monster: The Ed Gein Story",
+    "poster": "https://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "description": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "background": "https://image.tmdb.org/t/p/w1280/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg"
+  },
+  {
+    "id": "gdrive-folder:1rN1ctNkFXqxlZOCb35CMdd9UzuORbbZ5",
+    "type": "series",
+    "name": "MurderBot",
+    "poster": "https://image.tmdb.org/t/p/w1280/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
+    "description": "In a high-tech future, a rogue security robot secretly gains free will. To stay hidden, it reluctantly joins a new mission protecting scientists on a dangerous planet even though it just wants to binge soap operas.",
+    "background": "https://image.tmdb.org/t/p/original/nn9vM29SKN227zupaOOmaJz5SA0.jpg"
+  },
+  {
+    "id": "gdrive-folder:19mQqsawN4BwaVNNUGKAo3Rim60-fyDYw",
+    "type": "series",
+    "name": "Mistry",
+    "poster": "https://image.tmdb.org/t/p/w500/7f6E0EcFcWNWgsUXrKo379iSo4S.jpg",
+    "description": "Armaan Mistry is a brilliant ex-cop, who can solve the toughest of cases with no qualms. Just one problem: he has extreme OCD.",
+    "background": "https://image.tmdb.org/t/p/w1280/grReOkIuYCrBsdi4LYGvAUXsJ5M.jpg"
+  },
+  {
+    "id": "gdrive-folder:16kN7jAzm63rFh26nfxtTDHrE_c6wI9Rc",
+    "type": "series",
+    "name": "Motorheads",
+    "poster": "https://image.tmdb.org/t/p/w500/jglGmYMPEiHD7tVncvif7WtCOBJ.jpg",
+    "description": "After moving to Ironwood, siblings Caitlyn and Zac Torres are drawn into a thrilling car culture where street racing reigns and high school status is all about your ride. Haunted by their father's dark past, they join forces with loner Curtis and outcast Marcel to rebuild his legendary car.",
+    "background": "https://image.tmdb.org/t/p/w1280/gPoncjnCliOiWRVW2ASyrocqQpM.jpg"
+  },
+  {
+    "id": "gdrive-folder:1XQnDWyxlV1ZOXL2VufzOpSFhg6fGWEza",
+    "type": "series",
+    "name": "MobLand",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+    "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "background": "https://image.tmdb.org/t/p/w1280/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg"
+  },
+  {
+    "id": "gdrive-folder:1eRo9pyt0NW_7FFR_Oi1cR5F_L331ctwC",
+    "type": "series",
+    "name": "Medusa",
+    "poster": "https://image.tmdb.org/t/p/w1280/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+    "description": "Somebody wants to kill CEO Bárbara Hidalgo. Can she find the culprit as her family schemes ruthlessly for control of their Colombian business empire?",
+    "background": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg"
+  },
+  {
+    "id": "gdrive-folder:1JAEMi1DPWS94p944CIP8MP4eZolRGdVy",
+    "type": "series",
+    "name": "Missing You",
+    "poster": "https://image.tmdb.org/t/p/w500/aEiqusZEqOrqHmRtOninChmcOG0.jpg",
+    "description": "When Detective Kat Donovan matches on a dating app with the fiancé who disappeared years before, she learns that some secrets are best left in the past.",
+    "background": "https://image.tmdb.org/t/p/w1280/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-Y1QODIdcrnYjzOs0GhVOwR-jnzsSMMY",
+    "type": "series",
+    "name": "Midnight Family",
+    "poster": "https://image.tmdb.org/t/p/w500/qmTEtmJ1Ps17Y9uP428IGbiQayA.jpg",
+    "description": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a for-profit ambulance, competing with other unlicensed EMTs for patients in need of urgent care. In this cutthroat industry, they struggle to keep their financial needs from compromising the people in their care.",
+    "background": "https://image.tmdb.org/t/p/w1280/g7ss0Sp9nsDaj37z3nCHTknsMOQ.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-SUvUEIBta3m-8Ev4b7-CX-3eRsUjLt4",
+    "type": "series",
+    "name": "Murder Mindfully",
+    "poster": "https://image.tmdb.org/t/p/w500/3snsd7KLau14equwCz9YLZu9lTO.jpg",
+    "description": "When mafia lawyer Björn attends a mindfulness class to find a better work-life balance, he discovers surprising new coping strategies — including murder.",
+    "background": "https://image.tmdb.org/t/p/w1280/rsLZK4xAw1Oun0T5UWfG213qalP.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Ad6SEVHTUauK6VuxdG1SFYL-Nc37goeX",
+    "type": "series",
+    "name": "Monsters",
+    "poster": "https://image.tmdb.org/t/p/w500/qpJyTxR33KG9qFmXoCD5AUTToPl.jpg",
+    "description": "Six years ago NASA discovered the possibility of alien life within our solar system. A probe was launched to collect samples, but crashed upon re-entry over Central America. Soon after, new life forms began to appear and half of Mexico was quarantined as an infected zone. Today, the American and Mexican military still struggle to contain \"the creatures,\" while a journalist agrees to escort a shaken tourist through the infected zone in Mexico to the safety of the U.S. border.",
+    "background": "https://image.tmdb.org/t/p/w1280/imiBIsvNU3TbMB3sbqKanKODS33.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-Mb7NKrGfAh_ij7IL0HJYvBx7VjPSjqT",
+    "type": "series",
+    "name": "Mr. Throwback",
+    "poster": "https://image.tmdb.org/t/p/w500/wfCktBzGQ0OrOU0TS4GmjBMCot.jpg",
+    "description": "A down-on-his-luck memorabilia dealer looks for redemption by reuniting with his sixth-grade teammate, NBA legend Steph Curry.",
+    "background": "https://image.tmdb.org/t/p/w1280/zM2tmsq7B5AfzS7OMbVmKxQbv8n.jpg"
+  },
+  {
+    "id": "gdrive-folder:1twa87o0EKAFQ7TaqBt0mVJ0wm-r2FJwB",
+    "type": "series",
+    "name": "Man vs. Wild",
+    "poster": "https://image.tmdb.org/t/p/w500/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
+    "description": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
+    "background": "https://image.tmdb.org/t/p/w1280/uir3NfY3J7WBhzVA8kkVGtz9sUB.jpg"
+  },
+  {
+    "id": "gdrive-folder:1pfsOzkIN0UhBe9yOAoCZhblecmM3fsGv",
+    "type": "series",
+    "name": "Me",
+    "poster": "https://image.tmdb.org/t/p/w500/zYE9357q2thkuiRAsMA60H0eKiB.jpg",
+    "description": "New school. New family. New superpower. It's a season of change for 12-year-old Ben Vasani when he discovers that he can transform into anyone he meets. As a shapeshifter, Ben must figure out who he is and who he wants to be.",
+    "background": "https://image.tmdb.org/t/p/w1280/4K4Fgi7N36IUggoBPp9eFYLrBfp.jpg"
+  },
+  {
+    "id": "gdrive-folder:15JIS3fzsh7c4ck751hjPigkn3RWgH5a6",
+    "type": "series",
+    "name": "My Lady Jane",
+    "poster": "https://image.tmdb.org/t/p/w500/qX68uGVJwxQ0B0sPZBEGikWRmA6.jpg",
+    "description": "Gird your loins for the tragic tale of Lady Jane Grey, the young Tudor noblewoman who was Queen of England for nine days and then beheaded, back in good ol’ 1553. Actually... f*ck that. We’re retelling history the way it should have happened: the damsel in distress saves herself. This is an epic tale of true love and high adventure set in an alt-universe of action, history, fantasy, comedy, romance, and rompy-pompy. Buckle up.",
+    "background": "https://image.tmdb.org/t/p/w1280/oRxMRPh7MEV7blqBDq07sQWG0bY.jpg"
+  },
+  {
+    "id": "gdrive-folder:1v0sw-q6_NT6UkDZDf8761jgPCH18_cJl",
+    "type": "series",
+    "name": "Merlí. Sapere Aude",
+    "poster": "https://image.tmdb.org/t/p/w500/kMHA8Ya0dLjif2gnhdWEZ0TprIP.jpg",
+    "description": "In this drama set at a university, a wayward philosophy student navigate life on campus while seeking guidance from an intriguing new professor.",
+    "background": "https://image.tmdb.org/t/p/w1280/mp5p1qbTcelINZOZ39myVSxoZPl.jpg"
+  },
+  {
+    "id": "gdrive-folder:1IUtbFDFioz_KSYjvQBq2cjZRkauISgw7",
+    "type": "series",
+    "name": "Motherland: Fort Salem",
+    "poster": "https://image.tmdb.org/t/p/w500/s2dBDw3ns9rss51ikDtcINehMQM.jpg",
+    "description": "Set in an alternate America where witches ended their persecution over 300 years ago by cutting a deal with the government to fight for their country, the series follows three young women from basic training in combat magic into early deployment.",
+    "background": "https://image.tmdb.org/t/p/w1280/9CPU66ypbKnWHZLtG6F72gKzgO9.jpg"
+  },
+  {
+    "id": "gdrive-folder:1D85MYNSUoSUzjhVyO0ZiEfyxOdEysoYa",
+    "type": "series",
+    "name": "Maxton Hall - The World Between Us",
+    "poster": "https://image.tmdb.org/t/p/w500/slKAbvY2CjAIyJFqoLSh1WICzg6.jpg",
+    "description": "When Ruby unwittingly witnesses an explosive secret at Maxton Hall private school, the arrogant millionaire heir James Beaufort has to deal with the quick-witted scholarship student for better or worse: He is determined to silence Ruby. Their passionate exchange of words unexpectedly ignites a spark...",
+    "background": "https://image.tmdb.org/t/p/w1280/rKL1oWbuC1rfMCg6sSsWlqHPPem.jpg"
+  },
+  {
+    "id": "gdrive-folder:1RNNOipzqZFURjBAKICJ8y6T-TDXFD7u0",
+    "type": "series",
+    "name": "Midsummer Night",
+    "poster": "https://image.tmdb.org/t/p/w500/f5XhnyvWuBMRstYWMHqiQ6bMSQB.jpg",
+    "description": "Carina brings her family together for a traditional Swedish midsummer, but the happy occasion goes awry when long-held secrets start to come to light.",
+    "background": "https://image.tmdb.org/t/p/w1280/udrmV3DaopmuyJelIWRITK9VLFK.jpg"
+  },
+  {
+    "id": "gdrive-folder:1qNwVMFVnk0dkoljRvmiiNehw83_ftK3w",
+    "type": "series",
+    "name": "Marcella",
+    "poster": "https://image.tmdb.org/t/p/w500/k0FUUaaHYEcNrcEnIbPcmO6LIIA.jpg",
+    "description": "Marcella is shocked to the core of her being when her husband Jason leaves her unexpectedly, confessing he no longer loves her. Heartbroken, Marcella returns to the Met’s Murder Squad. Ten years ago Marcella gave up her fast-tracked police career to marry and devote her life to her family. With the abrupt end to her marriage and isolated from her 13 year old daughter and 10 year old son, Marcella throws herself into work to stop herself from falling apart.",
+    "background": "https://image.tmdb.org/t/p/w1280/n5ELbp4GXH4nnNkCvQTPH5fetUJ.jpg"
+  },
+  {
+    "id": "gdrive-folder:1m5MeiolSq_wmMwk217UUEnXa-UTlOzcb",
+    "type": "series",
+    "name": "Mary & George",
+    "poster": "https://image.tmdb.org/t/p/w1280/vYxOmU1w2uxIXV2FZIUc0bG347w.jpg",
+    "description": "In 17th century England, Mary Villiers molds her beautiful son, George, to seduce King James I, intending to gain riches and influence through outrageous schemes.",
+    "background": "https://image.tmdb.org/t/p/original/iiEZ76O3icsDtpYyZ88NRdL6kRt.jpg"
+  },
+  {
+    "id": "gdrive-folder:1H8sPZC4A6Sd-bp27QCwvbdnNu8Wf-nNa",
+    "type": "series",
+    "name": "Maamla Legal Hai",
+    "poster": "https://image.tmdb.org/t/p/w500/A9krYovvsiUXcQLOnQ2O53MHVwd.jpg",
+    "description": "Chaos collides with the letter of the law at District Court Patparganj, where quirky employees work to uphold justice — but not without a few objections.",
+    "background": "https://image.tmdb.org/t/p/w1280/2vWxGsPxoDYnnNqsq8jlv1wiFJj.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Uf4sRr0uD46hSdn3pNAy0mnAjerqeTkW",
+    "type": "series",
+    "name": "Mr. & Mrs. Smith",
+    "poster": "https://image.tmdb.org/t/p/w500/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+    "description": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+    "background": "https://image.tmdb.org/t/p/w1280/2YJOXPl4QtCskixYA58ToyCXEW0.jpg"
+  },
+  {
+    "id": "gdrive-folder:1bydbw-5nPCYerXowx9CPuCadMq7S6IVw",
+    "type": "series",
+    "name": "Monarch: Legacy of Monsters",
+    "poster": "https://image.tmdb.org/t/p/w500/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+    "description": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+    "background": "https://image.tmdb.org/t/p/w1280/t9i4Icf1LsGIgkpnokQaC4hzxLa.jpg"
+  },
+  {
+    "id": "gdrive-folder:1oe6S406tQSEPnPEQYaoD689VVJTQxTIv",
+    "type": "series",
+    "name": "Magnum, P.I.",
+    "poster": "https://image.tmdb.org/t/p/w500/jkxAIDbDfXrptT9Ab6iKnXjAqEV.jpg",
+    "description": "A private investigator who works when he wants, lives in a beachfront estate in Hawaii, drives a posh Ferrari, runs up an unlimited tab at a swank bar, and charms attractive women in peril - that's the lifestyle of Thomas Magnum, aka Magnum, P.I.",
+    "background": "https://image.tmdb.org/t/p/w1280/zJeWBM8AiA2wS8OnBMkt1l9Yy5d.jpg"
+  },
+  {
+    "id": "gdrive-folder:17QAJX_T0EkefKeTRl-AmqMAgc0JJ4ImV",
+    "type": "series",
+    "name": "Manayek",
+    "poster": "https://image.tmdb.org/t/p/w500/pAAuwezjWffJ1jBaB9xJ4klUi7e.jpg",
+    "description": "Izzy Bachar, a police internal affairs investigator, discovers just before retirement that his long time friend Barak, a senior police officer, is accused to be corrupt. Life as he knows it breaks into pieces.",
+    "background": "https://image.tmdb.org/t/p/w1280/fAaR6jYplDCdIaq4JBgJlZLggLZ.jpg"
+  },
+  {
+    "id": "gdrive-folder:1lqpB2-yPnGu9rOKlYFNCPlsDNbXAlDXL",
+    "type": "series",
+    "name": "My Life with the Walter Boys",
+    "poster": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+    "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+    "background": "https://image.tmdb.org/t/p/w1280/5WUsnqUm7xbY3oSwumSLfjyyax.jpg"
+  },
+  {
+    "id": "gdrive-folder:1rJ9yZ5e6R4VAsiBkv1QL-xGzg6auqRNW",
+    "type": "series",
+    "name": "Midnight, Texas",
+    "poster": "https://image.tmdb.org/t/p/w500/jsBaMDKtE7BikyFI8v59YlwwhIu.jpg",
+    "description": "Welcome to a place where being normal is really quite strange. In a remote Texas town no one is who they seem. From vampires and witches to psychics and hit men, Midnight is a mysterious safe haven for those who are different. As the town members fight off outside pressures from rowdy biker gangs, ever-suspicious cops and their own dangerous pasts, they band together and form a strong and unlikely family.",
+    "background": "https://image.tmdb.org/t/p/w1280/vTp62FmMXqLncTWFlqy7zauW4T9.jpg"
+  },
+  {
+    "id": "gdrive-folder:15-D5ua6tp48XWx3wkX-dZKvmTcgO6o2l",
+    "type": "series",
+    "name": "Murdaugh Murders: A Southern Scandal",
+    "poster": "https://image.tmdb.org/t/p/w500/so8k0YprvHS2eFT3lMqB1PokjAS.jpg",
+    "description": "Shocking tragedies shatter a tight-knit South Carolina community and expose the horrifying secrets of its most powerful family.",
+    "background": "https://image.tmdb.org/t/p/w1280/6TQvbtYAkP1ZfFjP8ayTIkDLgb4.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-Nd4t2jmW2TnJBMrDOB_D_yb3rUpEb0x",
+    "type": "series",
+    "name": "MY3",
+    "poster": "https://image.tmdb.org/t/p/w500/gx9YLM90ErqemWQf207xJI6YIx5.jpg",
+    "description": "A rich entrepreneur struggling with an allergy to human touch finds a solution in a robot. But when it crashes before delivery, a 'real' replacement is sent.",
+    "background": "https://image.tmdb.org/t/p/w1280/jStKqxh5vukd9gmGC91pexcZAMs.jpg"
+  },
+  {
+    "id": "gdrive-folder:1zIgS3R0hCrYGvbGQirViSwyZXlffRDRh",
+    "type": "series",
+    "name": "Miseducation",
+    "poster": "https://image.tmdb.org/t/p/w500/gH3qVtn45xtWk0qFPWl9ocTgYF4.jpg",
+    "description": "After a public humiliation, a wannabe influencer enrolls in a small-town university, where she aspires to regain her social status.",
+    "background": "https://image.tmdb.org/t/p/w1280/AnXfuzBnZDg4uO7pX4ZCLubOBfj.jpg"
+  },
+  {
+    "id": "gdrive-folder:1VAkp5HCBSx3ERwH8lKi9E8OQNC2A5JsG",
+    "type": "series",
+    "name": "Magic City",
+    "poster": "https://image.tmdb.org/t/p/w500/g06xRDpwPmhFuhqx0srjM8oqwn3.jpg",
+    "description": "Set in 1959 Miami, Florida shortly after the Cuban Revolution, Magic City tells the story of Ike Evans, the owner of Miami's most glamorous hotel, the Miramar Playa. Evans is forced to make an ill-fated deal with Miami mob boss Ben Diamond to ensure the success of his glitzy establishment.",
+    "background": "https://image.tmdb.org/t/p/w1280/7vu5uDJEHwJmfavMoBXIB7lnXKC.jpg"
+  },
+  {
+    "id": "gdrive-folder:18yiLWt2gRpFLk_WTjsONgWUe155Zxt5E",
+    "type": "series",
+    "name": "Modern Love",
+    "poster": "https://image.tmdb.org/t/p/w500/cP9CJ9nvPT3cnnBSlGFgwq7odIR.jpg",
+    "description": "An unlikely friendship. A lost love resurfaced. A marriage at its turning point. A date that might not have been a date. An unconventional new family. These are unique stories about the joys and tribulations of love, each inspired by true events.",
+    "background": "https://image.tmdb.org/t/p/w1280/mFnsjG9G7fkjhwrcmgBEOSrwbdu.jpg"
+  },
+  {
+    "id": "gdrive-folder:1y9kZJweziGJMwimlo1j9QlR-AeIe1TzY",
+    "type": "series",
+    "name": "Modern Love Tokyo",
+    "poster": "https://image.tmdb.org/t/p/w500/8hRXZ57tykJs4NXjmub7u1PQuB6.jpg",
+    "description": "This seven-episode anthology features a cast of leading actors and depicts various forms of \"love,\" such as love almost forgotten, love between sons and mothers, and love that transcends borders.",
+    "background": "https://image.tmdb.org/t/p/w1280/64CM7fzFOhEJtTBqJLA45QYSyqb.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ZRFah-dKEk7Bx91ZER-rJwWRXd-yJ-OW",
+    "type": "series",
+    "name": "Mathagam",
+    "poster": "https://image.tmdb.org/t/p/w500/3jnMI7H5820bkAOpSVLckTBT2Wl.jpg",
+    "description": "A \"dead\" gangster resurrects, and he is a man with an elaborate plan. With the city under threat, IPS officer Ashwath's only choice is to be two steps ahead...",
+    "background": "https://image.tmdb.org/t/p/w1280/7eNfGRNxnAPExNNnLn2aWLGhQzG.jpg"
+  },
+  {
+    "id": "gdrive-folder:1myDagr-pPmWcMmfPVhDI1t_bGmP7lbHU",
+    "type": "series",
+    "name": "Mask Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/6SP6NiyFxzUaegvg4TB3TMZlv8H.jpg",
+    "description": "An office worker who is insecure about her looks becomes a masked internet personality by night — until a chain of ill-fated events overtakes her life.",
+    "background": "https://image.tmdb.org/t/p/w1280/sfagVOgXVONyDAOI4BjnofLcYpv.jpg"
+  },
+  {
+    "id": "gdrive-folder:10ZOl_wBF2qEtemG6Jwk2M8fu8Igdlsg7",
+    "type": "series",
+    "name": "Mammals",
+    "poster": "https://image.tmdb.org/t/p/w500/mrNVoikbiZiItJvNbXsbuzrMIQN.jpg",
+    "description": "\"Waiting for Godot\" on ice and snow, without words. Against a barren winter landscape, a figure approaches: it's a man, pulling a small sleigh on which another man sits, plucking a dead bird. They stop to trade places; the one now on the sleigh takes out his knitting. Accidents, misunderstandings, disagreements, and an outright fight await our absurd protagonists as their trip to nowhere continues, first with one pulling, then the other. What if they were to lose the sleigh? What rules of civilization and partnership would guide them then?",
+    "background": "https://image.tmdb.org/t/p/w1280/xr01nimylU61k4avp0QukvWghHQ.jpg"
+  },
+  {
+    "id": "gdrive-folder:15a_Ht7N8RfcCdxCLaioo7tJBqn3BrYQs",
+    "type": "series",
+    "name": "MILF Manor",
+    "poster": "https://image.tmdb.org/t/p/w500/xVP7wggDSmLfLG6H8Vw86Xn2XWL.jpg",
+    "description": "From cities all across the country, eight confident and strong-minded women leave home for the chance to find love at a paradise destination.",
+    "background": "https://image.tmdb.org/t/p/w1280/AapvoTMnfcNd5n5fpzYKYQK4C1E.jpg"
+  },
+  {
+    "id": "gdrive-folder:1N3XtRXyjokLoPa6ltDVsNFJRrUM-9kag",
+    "type": "series",
+    "name": "Mildred Pierce",
+    "poster": "https://image.tmdb.org/t/p/w500/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
+    "description": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
+    "background": "https://image.tmdb.org/t/p/w1280/iWAijx2874J0QgNVXwqW24IMRai.jpg"
+  },
+  {
+    "id": "gdrive-folder:1dNtJ_WiH4HHD7qxmY2MT2f4Y_typt4NK",
+    "type": "series",
+    "name": "Modern Love Chennai",
+    "poster": "https://image.tmdb.org/t/p/w500/AuKtpbcL1OS2S7kIFRkHXvjcBr7.jpg",
+    "description": "An eclectic bouquet of love stories – funny, quirky, deep and puzzling. While the stories converse with your heart, you also catch a glimpse into the soul of Chennai with its unique terrains and diverse inhabitants.",
+    "background": "https://image.tmdb.org/t/p/w1280/t1DFDx2IQENe9bsT9mcd346BVY2.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Zi8B69tMgOaPAyiQ1gGQzABUp1Awt5m3",
+    "type": "series",
+    "name": "Muted",
+    "poster": "https://image.tmdb.org/t/p/w500/cfcmyPUJbynbUtKIlqSdkOrgyzU.jpg",
+    "description": "Sergio hasn't spoken since the day he murdered his parents. Six years later, a teen girl may be the key to revealing the whole story.",
+    "background": "https://image.tmdb.org/t/p/w1280/eZRsz5UechsmsWFgZf13lCDLNwd.jpg"
+  },
+  {
+    "id": "gdrive-folder:1FpiqoabfDs8dz08AgVey_Dvw3hr_U6O9",
+    "type": "series",
+    "name": "Mumbai Diaries",
+    "poster": "https://image.tmdb.org/t/p/w500/jDZXjtO3i1WpePWmg7paVKNpdfz.jpg",
+    "description": "A medical thriller set in the Emergency Room of a government hospital. The series explores the challenges faced by the medical staff at the hospital as well as other first responders across the city of Mumbai in dealing with a crisis of immense magnitude. In this battle to save lives and heal others, the ones doing the fixing are the most broken.",
+    "background": "https://image.tmdb.org/t/p/w1280/wAI88UNTlach9EjFzQRseg0VU2h.jpg"
+  },
+  {
+    "id": "gdrive-folder:1FoQKPhEhtnStQSoYNU7Ox81yiLJUGdIN",
+    "type": "series",
+    "name": "Mithya",
+    "poster": "https://image.tmdb.org/t/p/w500/vISVPrVsNwXyYiUIb2gqV1asoXA.jpg",
+    "description": "A two-bit actor faces challenges after he is asked by Police to impersonate a look-alike gangster.",
+    "background": "https://image.tmdb.org/t/p/w1280/vf25Y2k4l0Pj5lYZGrkJFHB5jDG.jpg"
+  },
+  {
+    "id": "gdrive-folder:17LlnhAyZOOx0lg88evINwYJsibXzTpAm",
+    "type": "series",
+    "name": "MerPeople",
+    "poster": "https://image.tmdb.org/t/p/w500/lWIcDfmMOWOxGqMG0OPytMpWWcr.jpg",
+    "description": "Welcome to the whimsical world of professional mermaiding, where people's passion for swimming in fins has exploded into a half-billion-dollar industry.",
+    "background": "https://image.tmdb.org/t/p/w1280/xWDH5MQhNcT8RtDokAC9QDr9afP.jpg"
+  },
+  {
+    "id": "gdrive-folder:1D6NRCpM2SZNZOkH1d411k7muVCjJgfdq",
+    "type": "series",
+    "name": "Minus One",
+    "poster": "https://image.tmdb.org/t/p/w500/pqb0vMWviYcMoSFroggneReHWUC.jpg",
+    "description": "When three soldiers from am Army Reserve unit are called to fight in the Middle East, they must prepare themselves for the possibility of never returning home.",
+    "background": "https://image.tmdb.org/t/p/w1280/1kzWw60fFM51ol3M7Zn28m4PQnA.jpg"
+  },
+  {
+    "id": "gdrive-folder:1_dogOyFYv2BGj1WpMJZe3on-DYSB530C",
+    "type": "series",
+    "name": "McGREGOR FOREVER",
+    "poster": "https://image.tmdb.org/t/p/w500/8vjMXey1TDjtXMTzxxG8c0GHvgr.jpg",
+    "description": "Conor McGregor's brutal strikes and trash-talking swagger made him the UFC's biggest draw. This rousing documentary series follows his dynamic career.",
+    "background": "https://image.tmdb.org/t/p/w1280/ajSkoyrl0o905KukpcZpZMa5FfF.jpg"
+  },
+  {
+    "id": "gdrive-folder:1iiNquZqTF3JXkwxD9EnRMaFr39d16mvK",
+    "type": "series",
+    "name": "Missing: Dead or Alive?",
+    "poster": "https://image.tmdb.org/t/p/w500/pTSzU9gWSsbosFD9nblTIPG4gur.jpg",
+    "description": "Follow officers from a South Carolina sheriff’s department as they urgently search for individuals who've disappeared under troubling circumstances.",
+    "background": "https://image.tmdb.org/t/p/w1280/slw3sELQwTkINBIIrSXi1acU2Eg.jpg"
+  },
+  {
+    "id": "gdrive-folder:15nu_An4KkzwHkXiZxNJoEKMBwH6z9SwN",
+    "type": "series",
+    "name": "Mismatched",
+    "poster": "https://image.tmdb.org/t/p/w500/l65kfL6qhTWd858OqGTr3RWwAUj.jpg",
+    "description": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program - but deeper feelings aren't far behind.",
+    "background": "https://image.tmdb.org/t/p/w1280/gw7NInCijR7eA1mTllrtxB7shBJ.jpg"
+  },
+  {
+    "id": "gdrive-folder:15f33bwgvfo26KQdzU-lWrBDznVK12VVz",
+    "type": "series",
+    "name": "Mismatch",
+    "poster": "https://image.tmdb.org/t/p/w500/bEh9hlmavpi6RnbBUFEepmMfwXD.jpg",
+    "description": "Mishka is terrified of her husband Abir's fantasies. Her boss Aditi intimidates her husband Anirban. The two mismatched couples begin a wild journey!",
+    "background": "https://image.tmdb.org/t/p/w1280/nGJ8iMbVmQw2AYdXPPjPxoLZ4sF.jpg"
+  },
+  {
+    "id": "gdrive-folder:15bzphKfOS_E1Bi35DYfkZVhW3x3yy5WS",
+    "type": "series",
+    "name": "Merlin",
+    "poster": "https://image.tmdb.org/t/p/w500/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+    "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+    "background": "https://image.tmdb.org/t/p/w1280/2JcrP4gNhU3KMbdajoEi1OvDl1Y.jpg"
+  },
+  {
+    "id": "gdrive-folder:15bLOL0-WmSPkQ6YQHpSrcM-lgVq9n199",
+    "type": "series",
+    "name": "Maharani",
+    "poster": "https://image.tmdb.org/t/p/w500/pX2Ru5bPv5ZV7kqY3UNw8yDoaAJ.jpg",
+    "description": "A political drama set in Bihar of 1990's, this story shows how an illiterate woman handles the state as Chief Minister. Rani Bharti's life takes an interesting turn when her husband Bheem Singh Bharti, announces her as the next chief minister of Bihar. With casteism and traditional satraps in the background, will Rani survive this turn of events?",
+    "background": "https://image.tmdb.org/t/p/w1280/rLGmcpJHM43Ytx1sY52LEUSjBkr.jpg"
+  },
+  {
+    "id": "gdrive-folder:17-b2S6vRq9EBKk3X-oY0k7zQu_GqJQV8",
+    "type": "series",
+    "name": "Mr. Mayor",
+    "poster": "https://image.tmdb.org/t/p/w500/uPAaoNJWbRkF7s0f3tPbVehiBgT.jpg",
+    "description": "A retired businessman runs for mayor of Los Angeles to prove he's \"still got it.\" Once he wins, he has to figure out what he stands for, gain the respect of his biggest critic and connect with his teenage daughter, all while trying to get anything right for America's second weirdest city.",
+    "background": "https://image.tmdb.org/t/p/w1280/4bcBNrKWz4N79KoL11QOZPEYFle.jpg"
+  },
+  {
+    "id": "gdrive-folder:17Sa5wHkF8fxUUwCD23J9rRRFbCpT2BKl",
+    "type": "series",
+    "name": "Modern Love Hyderabad",
+    "poster": "https://image.tmdb.org/t/p/w500/t92IeHAebFvYzzw089lemtrqEio.jpg",
+    "description": "A new generation of love stories, the love and fascination between the lovers, the dynamics of their relationships, their funny conversations and their conflicts.",
+    "background": "https://image.tmdb.org/t/p/w1280/oFU721kmJLzuNDjklsdtDdBfGUl.jpg"
+  },
+  {
+    "id": "gdrive-folder:130I9V0dST7lU6pjuQgRpvvZmK6OlUh2C",
+    "type": "series",
+    "name": "McMafia",
+    "poster": "https://image.tmdb.org/t/p/w500/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
+    "description": "Alex Godman, the English-raised son of Russian mafia exiles, has spent his life trying to escape the shadow of their past, building his own legitimate business and forging a life with his girlfriend Rebecca. But when a murder forces his family's past to return to threaten them, Alex is drawn into the criminal underworld and must confront his values to protect those he loves.",
+    "background": "https://image.tmdb.org/t/p/w1280/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg"
+  },
+  {
+    "id": "gdrive-folder:166fuh-RFsqR2ZB0F3BIyYU4cBTcgF2Jg",
+    "type": "series",
+    "name": "Masoom",
+    "poster": "https://image.tmdb.org/t/p/w500/a2PVNqiTbALVhyQVuqDMROy21Pt.jpg",
+    "description": "D.K. Malhotra lives a comfortable lifestyle with his wife, Indu, and two school-going daughters, Pinky and Minni. He works in the office of an Architect. One day while the family is relaxing, D.K. gets a phone call that results in him bringing home a young school-going boy by the name of Rahul. Indu is shocked to learn that Rahul is D.K.'s son from another woman, Bhavana, who is no more. D.K. does his best to make Rahul comfortable, but fails. Rahul also feels that Indu does not really like him, though Pinky and Minni have taken to him in a big way. Finally, D.K. decides to admit Rahul in a boarding school in far off Nainital. Rahul reluctantly goes along with this new-found uncle/friend. It is when Rahul is asked to put his papers together for school that Rahul finds out that D.K. is his biological father. Watch what happens when Rahul disappears from D.K.'s house, and the impact this has on D.K., Indu, and her two daughters.",
+    "background": "https://image.tmdb.org/t/p/w1280/uuxY0hpf3B2bThoZXnQztnlIGPY.jpg"
+  },
+  {
+    "id": "gdrive-folder:154dw2EFDqCRp-dgiU8RAfUYqyT3W2HC2",
+    "type": "series",
+    "name": "Marvel's Inhumans",
+    "poster": "https://image.tmdb.org/t/p/w500/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
+    "description": "After the Royal Family of Inhumans is splintered by a military coup, they barely escape to Hawaii where their surprising interactions with the lush world and humanity around them may prove to not only save them, but Earth itself.",
+    "background": "https://image.tmdb.org/t/p/w1280/5W9YCPMDF5TCudct2guf6b8iRFz.jpg"
+  },
+  {
+    "id": "gdrive-folder:15Rb98_thqwABYrnB9TSs8olWbpVF7Hy8",
+    "type": "series",
+    "name": "Mai Hero Boll Raha Hu",
+    "poster": "https://image.tmdb.org/t/p/w500/xxAsrnx77K7Z6G15gV0nmteDjB8.jpg",
+    "description": "Nawab rises as an underworld don from a small town boy to Bombay's most powerful don. He falls in love with actress Laila who isn't aware of who he is. His erstwhile mentor Lala turns against him. Will Nawab and Laila survive?",
+    "background": "https://image.tmdb.org/t/p/w1280/MDtN47hdDCKsPPsgkVybs9erFC.jpg"
+  },
+  {
+    "id": "gdrive-folder:1fIlS90urrLQfp0H8hyis91lFP17UyVfN",
+    "type": "series",
+    "name": "Mukhbir: The Story of a Spy",
+    "poster": "https://image.tmdb.org/t/p/w500/svOrpNNl56ha48pg84IvElHOPbB.jpg",
+    "description": "After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
+    "background": "https://image.tmdb.org/t/p/w1280/j9VnIkUMAUYrGS3mmWKbv2o5gau.jpg"
+  },
+  {
+    "id": "gdrive-folder:1nhwo0nkANwKK0YCynN5liFoKxpkwYYKO",
+    "type": "series",
+    "name": "Marvel's Runaways",
+    "poster": "https://image.tmdb.org/t/p/w500/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
+    "description": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
+    "background": "https://image.tmdb.org/t/p/w1280/pHURd96EW167jUd2Jf8XpgTiLJV.jpg"
+  },
+  {
+    "id": "gdrive-folder:1FyPS8UYArwqoGDfHV5IXPb-GIVpCtumz",
+    "type": "series",
+    "name": "Helstrom",
+    "poster": "https://image.tmdb.org/t/p/w500/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg",
+    "description": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
+    "background": "https://image.tmdb.org/t/p/w1280/qCReQONjNVaW4QFN2V5vCOzPvex.jpg"
+  },
+  {
+    "id": "gdrive-folder:1XrB4xpfTzD-LZ_d29MIW7IdGQ57nLI8c",
+    "type": "series",
+    "name": "Malibu Rescue",
+    "poster": "https://image.tmdb.org/t/p/w500/7pWOciZg6BsZytgV63oReKoHbWs.jpg",
+    "description": "When a long list of shenanigans lands Tyler in hot water, he’s forced to suit up and spend his summer training for an elite junior lifeguard program.",
+    "background": "https://image.tmdb.org/t/p/w1280/rz0rXiUtrPnksJOfGsEPrJMSgtv.jpg"
+  },
+  {
+    "id": "gdrive-folder:1VBcC8R-A9AAH7FUjdoW-ny2caumoQOry",
+    "type": "series",
+    "name": "Maradona, Blessed Dream",
+    "poster": "https://image.tmdb.org/t/p/w500/qjxEp8azTOezyEZe0EZ353mzdwH.jpg",
+    "description": "The controversial life and history of Argentine football legend Diego Armando Maradona. From his beginnings in Villa Fiorito, one of the poorest barrios of Buenos Aires, to achieving glory on the international football league. Earning himself a well-deserved place in history. Living a life strewn with drugs, sex and public scrutiny, he played by his own rules regardless of the consequences. Watch the man who took the world by storm and made his way into the hearts of millions.",
+    "background": "https://image.tmdb.org/t/p/w1280/dhRcIc6acdXG83CJ2z9Hns6Fkg2.jpg"
+  },
+  {
+    "id": "gdrive-folder:1lQF0pc_7QSBVIVVAIwTQ0VPBXcTQpmLe",
+    "type": "series",
+    "name": "Marvel Studios Legends",
+    "poster": "https://image.tmdb.org/t/p/w500/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+    "description": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+    "background": "https://image.tmdb.org/t/p/w1280/2jPv3B0ikeGjEYZKDX8vJGXJrvh.jpg"
+  },
+  {
+    "id": "gdrive-folder:15wYhSlvPc_694JM6KJ2wSOcKvkOrIGAB",
+    "type": "series",
+    "name": "Marvel's Agents of S.H.I.E.L.D.",
+    "poster": "https://image.tmdb.org/t/p/w500/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+    "description": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
+    "background": "https://image.tmdb.org/t/p/w1280/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg"
+  },
+  {
+    "id": "gdrive-folder:116DDbeWPXkBaFpr234Rh_FKXI1M0sLXB",
+    "type": "series",
+    "name": "Mr Inbetween",
+    "poster": "https://image.tmdb.org/t/p/w500/cXviefgSi6KNhbbEjwOHqgpNQ0o.jpg",
+    "description": "Ray Shoesmith is a father, ex-husband, boyfriend and best friend: tough roles to juggle in the modern age. Even harder when you’re a criminal for hire.",
+    "background": "https://image.tmdb.org/t/p/w1280/55S9cYstHjxnukajslwq2fmNL1p.jpg"
+  },
+  {
+    "id": "gdrive-folder:10GE_wfWx7A31vfsRwSK1T-aIzqfjHWRS",
+    "type": "series",
+    "name": "Modern Family",
+    "poster": "https://image.tmdb.org/t/p/w500/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg",
+    "description": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+    "background": "https://image.tmdb.org/t/p/w1280/baz06JeHeGjq45auOFEiw1K7zVj.jpg"
+  },
+  {
+    "id": "gdrive-folder:11WrswhQm9H-qh21APtzOuUO-dOf-G1bl",
+    "type": "series",
+    "name": "Marvel's Cloak & Dagger",
+    "poster": "https://image.tmdb.org/t/p/w500/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+    "description": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
+    "background": "https://image.tmdb.org/t/p/w1280/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg"
+  },
+  {
+    "id": "gdrive-folder:1-fh-5WbNWNgwsi-GZeLoAYBe2ImfiOQR",
+    "type": "series",
+    "name": "Marvel's Agent Carter",
+    "poster": "https://image.tmdb.org/t/p/w500/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+    "description": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
+    "background": "https://image.tmdb.org/t/p/w1280/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg"
+  },
+  {
+    "id": "gdrive-folder:1T-J4C-7gG7BFc6nqfzR8TUaStkDu0Chx",
+    "type": "series",
+    "name": "Mrs. Davis",
+    "poster": "https://image.tmdb.org/t/p/w500/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg",
+    "description": "Sister Simone partners with her ex-boyfriend on a globe-spanning journey to destroy Mrs. Davis, a powerful artificial intelligence.",
+    "background": "https://image.tmdb.org/t/p/w1280/k1sV0lgUPmgoQeyL6LoPSfiwiPc.jpg"
+  },
+  {
+    "id": "gdrive-folder:1uqBhhecDf9djvy92ZZX71RcmE6T-Bf0D",
+    "type": "series",
+    "name": "MINDHUNTER",
+    "poster": "https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+    "description": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists.",
+    "background": "https://image.tmdb.org/t/p/w1280/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg"
+  },
+  {
+    "id": "gdrive-folder:1yUQkdIa4f4ISym7ZHVX01YzgY7vMCjQD",
+    "type": "series",
+    "name": "Masaba Masaba",
+    "poster": "https://image.tmdb.org/t/p/w500/ffu1aIhHffNLnanapqSnFuU9TuI.jpg",
+    "description": "Inspired by real events from Masaba Gupta's life, \"Masaba Masaba\" follows the designer's atypical journey through heterogeneous universes ranging from fashion to family, and documents her return to the singles market.",
+    "background": "https://image.tmdb.org/t/p/w1280/s7EDgcCT3B5xW43q4cNiiA7fE4Y.jpg"
+  },
+  {
+    "id": "gdrive-folder:1iIicr-gGILxfdPUY1AeWXKVxiBYmUgvo",
+    "type": "series",
+    "name": "Marvel's The Punisher",
+    "poster": "https://image.tmdb.org/t/p/w500/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+    "description": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+    "background": "https://image.tmdb.org/t/p/w1280/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg"
+  },
+  {
+    "id": "gdrive-folder:1pV95cVG0qH33YSpeoHK7tAuGYBf3rtRs",
+    "type": "series",
+    "name": "Midnight Mass",
+    "poster": "https://image.tmdb.org/t/p/w500/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
+    "description": "The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe.",
+    "background": "https://image.tmdb.org/t/p/w1280/4XbQb5YoWK9oMrlQdKwtZ1ccpC8.jpg"
+  },
+  {
+    "id": "gdrive-folder:17rb79UhW9fB-U5W1F1i6QGu1xkzJwNCN",
+    "type": "series",
+    "name": "Marvel's Iron Fist",
+    "poster": "https://image.tmdb.org/t/p/w500/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
+    "description": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+    "background": "https://image.tmdb.org/t/p/w1280/xHCfWGlxwbtMeeOnTvxUCZRGnkk.jpg"
+  },
+  {
+    "id": "gdrive-folder:15o9JFfmVcL9EpOM-hnnimn6I0ZtpNCc6",
+    "type": "series",
+    "name": "Mai: A Mother's Rage",
+    "poster": "https://image.tmdb.org/t/p/w500/2x2lwLB91579qtOVpHJkxJ3klSs.jpg",
+    "description": "A grieving mother discovers the criminals behind her daughter's tragic death, and transforms from meek to merciless to get the real story.",
+    "background": "https://image.tmdb.org/t/p/w1280/5ljP8SEfuZYGqBck6V26wDkB5Lx.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Wm97YDVP6EoI1YxNHyeOKq5FFarMiHD8",
+    "type": "series",
+    "name": "Marvel's Luke Cage",
+    "poster": "https://image.tmdb.org/t/p/w500/6R62oGGufhsf6DiMknCi047N0b7.jpg",
+    "description": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+    "background": "https://image.tmdb.org/t/p/w1280/1zC6TJ4gQYQSjZUyZMeldxImqNg.jpg"
+  },
+  {
+    "id": "gdrive-folder:14jFWBG1BOmN3P-bt7JjviMqL1mI3nXLi",
+    "type": "series",
+    "name": "Marvel's The Defenders",
+    "poster": "https://image.tmdb.org/t/p/w500/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+    "description": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
+    "background": "https://image.tmdb.org/t/p/w1280/72jj9y2Ejeub0mycZvkrPfT59sW.jpg"
+  },
+  {
+    "id": "gdrive-folder:14bHJA5frVFbeqfa8y7EeHWbVSf-SEjk_",
+    "type": "series",
+    "name": "Monarca",
+    "poster": "https://image.tmdb.org/t/p/w500/oXiTq8dm9ugYjLCKFDnLE4pRMGT.jpg",
+    "description": "After 20 years, Ana María returns to Mexico and vies for control of her family's tequila empire as it threatens to crumble under corruption and secrets.",
+    "background": "https://image.tmdb.org/t/p/w1280/5XruzOFOJRsGW5Ul4VTb5kGAR3c.jpg"
+  },
+  {
+    "id": "gdrive-folder:1GLZdj9m2Q3tJcluyJJSnFfKY4sb8YMp2",
+    "type": "series",
+    "name": "MH370: The Plane That Disappeared",
+    "poster": "https://image.tmdb.org/t/p/w500/n16M7juqhFpX7Ti3z1fHywjgmZk.jpg",
+    "description": "In 2014, a plane with 239 people aboard vanishes from all radar. This docuseries delves into one of our greatest modern mysteries: Flight MH370.",
+    "background": "https://image.tmdb.org/t/p/w1280/hswkpjV89QHE2DelTOZAtDeXoyU.jpg"
+  },
+  {
+    "id": "gdrive-folder:1FfDlLK0CQjFLX58gp39VgHZl2DlE_a08",
+    "type": "series",
+    "name": "Mayfair Witches",
+    "poster": "https://image.tmdb.org/t/p/w500/eDl1veju2Hf3tyFmGAedtGXb9Yv.jpg",
+    "description": "An intuitive young neurosurgeon discovers that she is the unlikely heir to a family of witches. As she grapples with her newfound powers, she must contend with a sinister presence that has haunted her family for generations.",
+    "background": "https://image.tmdb.org/t/p/w1280/9DHo5qXkG0titQmr2PF92N3aYYk.jpg"
+  },
+  {
+    "id": "gdrive-folder:1JQF1D-Mmp0_7Y6YCHS_kOFQXT_oKyjQL",
+    "type": "series",
+    "name": "My Unorthodox Life",
+    "poster": "https://image.tmdb.org/t/p/w500/q6VhvmTqvzvooQaAMcCM8ZvpGsG.jpg",
+    "description": "The personal and professional life of fashion mogul Julia Haart - former member of an ultra-Orthodox Jewish community turned CEO of Elite World Group.",
+    "background": "https://image.tmdb.org/t/p/w1280/v88SoZxcUMyicPxLjlbeKwB3bwb.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ORZ92St0xDoBTRPLX_zBI8iNZEFCkb_2",
+    "type": "series",
+    "name": "My Encounter with Evil",
+    "poster": "https://image.tmdb.org/t/p/w500/wepmAKAfDuVlZGmkIqdLWORa7A3.jpg",
+    "description": "Real people who believe their lives were touched by demonic possession recount their experiences through reenactments and testimonies.",
+    "background": "https://image.tmdb.org/t/p/w1280/kI8DGcgPOfZfruOrrVxt0R1e0iU.jpg"
+  },
+  {
+    "id": "gdrive-folder:1YxrL69vhu49WPv0kfOiRjy0vswp9Zv07",
+    "type": "series",
+    "name": "Minx",
+    "poster": "https://image.tmdb.org/t/p/w500/8m4ExDRn3oqZJI33mxKaZBjbf1v.jpg",
+    "description": "An earnest young feminist joins forces with a low-rent publisher to make the world's first erotic magazine for women.",
+    "background": "https://image.tmdb.org/t/p/w1280/i8oPK8F2jLZhobxbZIScjFtRxYs.jpg"
+  },
+  {
+    "id": "gdrive-folder:1FxO4z01S4CHJWpAtqWmCkE0Hqtn3dKHw",
+    "type": "series",
+    "name": "Medicine",
+    "poster": "https://image.tmdb.org/t/p/w500/9h2AGdFs0yJQeYdAUamPQoevkAi.jpg",
+    "description": "Johanna works as a journalist on a women magazine. But her boss is an idiot, her salary is ridiculous and her husband has left her for a younger woman. With a great life crisis she decided to try a new medicine.",
+    "background": "https://image.tmdb.org/t/p/w1280/YaCoG3cfXlkmozJ9YYh8l2lqoi.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Aph-QYidHCJpO4jrvFShm2Z7z7yLsDsx",
+    "type": "series",
+    "name": "Marianne",
+    "poster": "https://image.tmdb.org/t/p/w500/hpeaMzflHMEepUGiCjXld7lrnC2.jpg",
+    "description": "When a novelist realizes her terrifying stories are coming true, she returns to her hometown to face the demons from her past that inspire her writing.",
+    "background": "https://image.tmdb.org/t/p/w1280/yD01qWyOqc6J2lRutzOt3Wu8Wnz.jpg"
+  },
+  {
+    "id": "gdrive-folder:1AYxus7LnFg2Zz8iW7YfAd9K_rVIijQvN",
+    "type": "series",
+    "name": "Marco Polo",
+    "poster": "https://image.tmdb.org/t/p/w500/syYTHCBvFlobr8eJjQMKAjrn9yV.jpg",
+    "description": "An epic adventure that follows the early years of the famous explorer as he travels the exotic Silk Road to the great Kublai Khan’s court. But Marco soon finds that navigating the Khan’s world of greed, betrayal, sexual intrigue and rivalry will be his greatest challenge yet, even as he becomes a trusted companion to the Khan in his violent quest to become the Emperor of the World.",
+    "background": "https://image.tmdb.org/t/p/w1280/nLlujkVolfX9jrfQdpJHv9FPFlt.jpg"
+  },
+  {
+    "id": "gdrive-folder:179_ZNZ28vcQCyTeht94Ovr-C6XIqlE_a",
+    "type": "series",
+    "name": "Malcolm in the Middle",
+    "poster": "https://image.tmdb.org/t/p/w500/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+    "description": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+    "background": "https://image.tmdb.org/t/p/w1280/ysaA0BInz4071p3LKqAQnWKZCsK.jpg"
+  },
+  {
+    "id": "gdrive-folder:1EzOwAbHMMKn8MjjE1JZRFqVnBdmXtzTt",
+    "type": "series",
+    "name": "Man on Pause",
+    "poster": "https://image.tmdb.org/t/p/w500/1XQAYmlJdCyi7SPo9ygprrbjEE5.jpg",
+    "description": "Amid the onset of andropause, a 50-something family man becomes obsessed with change and decides to pursue happiness. Then he bungles it up completely.",
+    "background": "https://image.tmdb.org/t/p/w1280/bdqL478uP9QSlGINsrSfoBfJaCX.jpg"
+  },
+  {
+    "id": "gdrive-folder:1EmtP3jZl_IBDnZ-XXRwJE03gfp1InOP-",
+    "type": "series",
+    "name": "MAKE MY DAY",
+    "poster": "https://image.tmdb.org/t/p/w500/eNVbP4T5Pjj0aWQKNeHBWhG9MZl.jpg",
+    "description": "On an isolated icy planet promising a bright future, prisoners are forced to excavate a rare energy source that leads to a deadly, unwelcome discovery.",
+    "background": "https://image.tmdb.org/t/p/w1280/21wZ83vCQ6tzhmFQwspjO8x1ex5.jpg"
+  },
+  {
+    "id": "gdrive-folder:1D78rm727x-kS99NP_I8hWXh35oXNfn6X",
+    "type": "series",
+    "name": "Mad Men",
+    "poster": "https://image.tmdb.org/t/p/w500/yd4BrXPQZvin4XMDlXUP9JgQDUQ.jpg",
+    "description": "Set in 1960-1970 New York, this sexy, stylized and provocative drama follows the lives of the ruthlessly competitive men and women of Madison Avenue advertising.",
+    "background": "https://image.tmdb.org/t/p/w1280/A5lVyejMsP5G7rAJBwU9ug3Wzou.jpg"
+  },
+  {
+    "id": "gdrive-folder:12dVbDcJ8-dDJ6mBH6WonewqwMqfXpazj",
+    "type": "series",
+    "name": "Matsya Kaand",
+    "poster": "https://image.tmdb.org/t/p/w500/o1nj0vsKzltE9DzJBAfRmSSDYRr.jpg",
+    "description": "Matsya Thada (Ravii Dubey) is an honourable con artist, who instead of using his brawn, conducts his 'kaand' with aptitude, intelligence, and charm. He's known for pulling off some of the country's most daring and biggest cons, and he always manages to get past the cops as he moves from one operation to the next. However, fate throws him a new curveball when ACP Tejraj Singh (Ravi Kishan) is given charge of his case. Matsya challenges ACP Tejraj to catch him if he can, which leads to a cat and mouse chase that will surely keep you at the edge of your seat. Will ACP Tejraj succeed, or will Matsya win yet again?",
+    "background": "https://image.tmdb.org/t/p/w1280/u14vGHPuuLaovbmBAATBv3KEeZw.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ZMg4b2lHLL0-cjBetfO5quX5Liv-6hf_",
+    "type": "series",
+    "name": "Made in Heaven",
+    "poster": "https://image.tmdb.org/t/p/w500/hW7bWzHswnmYix1rnH9brQmgmAl.jpg",
+    "description": "Deceased drifter Mike arrives in Heaven and quickly falls for newborn soul Annie, soon to start her assignment on Earth. When Annie leaves, Mike follows.",
+    "background": "https://image.tmdb.org/t/p/w1280/wpkbMVA3LaMKbAuHlJAh0kKq2QB.jpg"
+  },
+  {
+    "id": "gdrive-folder:14Mju4pHyULR8TOzKWVecIEMkAYtsnJ37",
+    "type": "series",
+    "name": "Masters of Sex",
+    "poster": "https://image.tmdb.org/t/p/w500/bC42ksckQpjfck2BZ5McaEDN4pk.jpg",
+    "description": "William Masters and Virginia Johnson are real-life pioneers of the science of human sexuality. Their research touched off the sexual revolution and took them from a midwestern teaching hospital to the cover of Time magazine and multiple appearances on Johnny Carson's couch. He is a brilliant scientist out of touch with his own feelings, and she is a single working mother ahead of her time. The series chronicles their unusual lives, romance, and unlikely pop culture trajectory.",
+    "background": "https://image.tmdb.org/t/p/w1280/5evkOLJ3HlYrwpy6Q5DlubiHzCJ.jpg"
+  },
+  {
+    "id": "gdrive-folder:1VyuMdu2sGkFYsfbs-uorJw9ZlfSvKf77",
+    "type": "series",
+    "name": "Maestro in Blue",
+    "poster": "https://image.tmdb.org/t/p/w500/ckkTjgfDqfm7amTPODPMvjkIhh1.jpg",
+    "description": "A musician goes to lead a festival on a scenic island, where he begins an unexpected romance and finds himself entwined in other people's problems.",
+    "background": "https://image.tmdb.org/t/p/w1280/lMIIAqdNUOiyIDlqs8p9H3SHj0G.jpg"
+  },
+  {
+    "id": "gdrive-folder:1n4zD1dKx5snU8jR7YUn775J22-lbYodJ",
+    "type": "series",
+    "name": "Mr. Robot",
+    "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+    "description": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+    "background": "https://image.tmdb.org/t/p/w1280/uJUe985oIuRiD3hmHQYskIMc2WU.jpg"
+  },
+  {
+    "id": "gdrive-folder:1TwlCuAK9mYDaCH1bBbyiZD1RIke9vqfF",
+    "type": "series",
+    "name": "Mr. Corman",
+    "poster": "https://image.tmdb.org/t/p/w500/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg",
+    "description": "With better luck, better choices, better posture... Josh Corman could’ve been a rock star. Now he teaches fifth grade, and though he loves his students, he still struggles to find happiness and meaning in a world that sometimes feels short on both.",
+    "background": "https://image.tmdb.org/t/p/w1280/1YmELlrMRAYupQ2MMeLsAwrVvyt.jpg"
+  },
+  {
+    "id": "gdrive-folder:1TpZzrgrwTu2EO1M9sTTeko7PXQqHzqJw",
+    "type": "series",
+    "name": "Made for Love",
+    "poster": "https://image.tmdb.org/t/p/w500/4FsrPwd2umUjl2T5BExVPTlI85u.jpg",
+    "description": "Thirty-something Hazel Green tries to escape a suffocating marriage — until she realizes her tech billionaire husband has implanted a revolutionary tracking device, the Made for Love, in her brain.",
+    "background": "https://image.tmdb.org/t/p/w1280/otnWfF8LXkWN6kRoqgZ3vJI0MDn.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Q1cHbibAJAhXCZvwSjmIAqXK1MydBuKQ",
+    "type": "series",
+    "name": "Mare of Easttown",
+    "poster": "https://image.tmdb.org/t/p/w500/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+    "description": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+    "background": "https://image.tmdb.org/t/p/w1280/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg"
+  },
+  {
+    "id": "gdrive-folder:1jiw1Mg4iV2PavxCD-RRXUdV8RSaWRLQG",
+    "type": "series",
+    "name": "Mrs. Fletcher",
+    "poster": "https://image.tmdb.org/t/p/w500/8FVRHydZgQ09S4ANvhy1dQyI7A4.jpg",
+    "description": "Empty nest divorcée Eve Fletcher reinvents her life to find the happiness and sexual fulfillment that’s eluded her, and her college freshman son Brendan.",
+    "background": "https://image.tmdb.org/t/p/w1280/7kURMhv9ueXNnvP9werOhJihXks.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Z6LSImnOxrkX-adRnMqaJb19ocL0gTas",
+    "type": "series",
+    "name": "Messiah",
+    "poster": "https://image.tmdb.org/t/p/w500/qXWSlaizMJ1czYUiVxhgUixVdgJ.jpg",
+    "description": "A wary CIA officer investigates a charismatic man who sparks a spiritual movement and stirs political unrest. Who exactly is he? And what does he want?",
+    "background": "https://image.tmdb.org/t/p/w1280/AgP8MQcaG5X1ewCQMZdiP9ews4Y.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Byx6Wh17LPufPDp_bhggYqZzBY-O3_P6",
+    "type": "series",
+    "name": "Midnight at the Pera Palace",
+    "poster": "https://image.tmdb.org/t/p/w500/esrggEWrlpjncn6y4tyHBJ0syLn.jpg",
+    "description": "At a historic Istanbul hotel, a journalist is unexpectedly thrust into the past and must stop a plot that could change the fate of modern Turkey.",
+    "background": "https://image.tmdb.org/t/p/w1280/n5MXQXuj5RnpZcxvDtO4sgzcKaY.jpg"
+  },
+  {
+    "id": "gdrive-folder:19_q6wkwjwZJgM0m1mxkc1CMiPs8lzI5F",
+    "type": "series",
+    "name": "Man Vs Bee",
+    "poster": "https://image.tmdb.org/t/p/w500/c80mxgOPvSWJBcgWoI5bf3et5Ws.jpg",
+    "description": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
+    "background": "https://image.tmdb.org/t/p/w1280/t7yguUnzfxuVqWH0kUqvYbMWZsX.jpg"
+  },
+  {
+    "id": "gdrive-folder:19X4CJv0vUK-EUqMYTJrcBjPquPKr-CE-",
+    "type": "series",
+    "name": "Maid",
+    "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+    "description": "After fleeing an abusive relationship, a young mother finds a job cleaning houses as she fights to provide for her child and build them a better future.",
+    "background": "https://image.tmdb.org/t/p/w1280/i65eDmzPilc9FSVboIKdSSZ8Q0E.jpg"
+  },
+  {
+    "id": "gdrive-folder:1QIfllOHBouCqZLnyV-xYZavDHeeDJrxB",
+    "type": "series",
+    "name": "Moon Knight",
+    "poster": "https://image.tmdb.org/t/p/w500/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
+    "description": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+    "background": "https://image.tmdb.org/t/p/w1280/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg"
+  },
+  {
+    "id": "gdrive-folder:1fyj0kcgltYdJ6hDHZgnITzx8Q5aSQXLV",
+    "type": "series",
+    "name": "Ms. Marvel",
+    "poster": "https://image.tmdb.org/t/p/w500/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
+    "description": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+    "background": "https://image.tmdb.org/t/p/w1280/mfcLUWASJghU8MTNK38eYktfE83.jpg"
+  },
+  {
+    "id": "gdrive-folder:1Rw-DpQXQIANUdjeB6zBTMNrZULZvQUzG",
+    "type": "series",
+    "name": "Mayor of Kingstown",
+    "poster": "https://image.tmdb.org/t/p/w500/bCoVQckqnqVtiAZua0EO17eI2Y1.jpg",
+    "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+    "background": "https://image.tmdb.org/t/p/w1280/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg"
+  },
+  {
+    "id": "gdrive-folder:193oNMhC3blR41WsY5sYEijbVQDHKXK6Q",
+    "type": "series",
+    "name": "Manifest",
+    "poster": "https://image.tmdb.org/t/p/w500/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+    "description": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+    "background": "https://image.tmdb.org/t/p/w1280/iZu83GB1IM7VXL2X90m7iLHYUHU.jpg"
+  },
+  {
+    "id": "gdrive-folder:1pxtnWForovhEpa6n70mvJk-_2_AapGe8",
+    "type": "series",
+    "name": "Marvel's Daredevil",
+    "poster": "https://image.tmdb.org/t/p/w500/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+    "description": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+    "background": "https://image.tmdb.org/t/p/w1280/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg"
+  },
+  {
+    "id": "gdrive-folder:1utRmGfNcXcs6vMWXM9exfAKSEwKIIbyC",
+    "type": "series",
+    "name": "Marvel's Jessica Jones",
+    "poster": "https://image.tmdb.org/t/p/w500/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
+    "description": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
+    "background": "https://image.tmdb.org/t/p/w1280/g9ju2o4LioYYOyihBvf9lVX8XL.jpg"
+  },
+  {
+    "id": "gdrive-folder:1jW7YXybtxvCMOF2f93M1qKfdp1B2a3i0",
+    "type": "series",
+    "name": "Money Heist",
+    "poster": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+    "background": "https://image.tmdb.org/t/p/w1280/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg"
+  },
+  {
+    "id": "gdrive-folder:1cFOBhqley7qno-aVdfzcE8Ta-nC9YnCc",
+    "type": "series",
+    "name": "Mirzapur",
+    "poster": "https://image.tmdb.org/t/p/w500/p0qM8hhlMF5DuxHBzl2EZR6TehX.jpg",
+    "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+    "background": "https://image.tmdb.org/t/p/w1280/3dV7pWAdwIPKR2lMIACMfObXdgK.jpg"
+  },
+  {
+    "id": "gdrive-folder:1KwLsMNEUzUH3Q3Geqz6OcOAcXNSXL2ws",
+    "type": "movie",
+    "name": "Mrs Playmen",
+    "poster": "https://image.tmdb.org/t/p/w500/aLwRvsuKhMjrCrAUUuw61cSuiOi.jpg",
+    "description": "Betrayed by her husband, a woman must step up and run an erotic magazine that becomes a symbol of empowerment in '70s Rome. Inspired by true events.",
+    "background": "https://image.tmdb.org/t/p/w1280/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:1J8CngHDb1lnrGhV9A3kAOeDZTOLSq2DI",
+    "type": "movie",
+    "name": "Malice",
+    "poster": "https://image.tmdb.org/t/p/w500/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+    "description": "Charming 'manny' Adam Healey infiltrates the brash, wealthy Tanner family, in order to destroy them.",
+    "background": "https://image.tmdb.org/t/p/w1280/sFcJMla4niXDeOXrrE8StmjzUmt.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1epVudgKOjbA4euX4pX9UlWL344D8vc_L",
+    "type": "movie",
+    "name": "Murdaugh: Death in the Family",
+    "poster": "https://image.tmdb.org/t/p/w500/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
+    "description": "Maggie and Alex enjoy a lavish life of privilege as members of one of South Carolina's most powerful legal dynasties. But when their son Paul is involved in a deadly boat crash, the family is faced with a test unlike any they've ever encountered. As details come to light and new challenges emerge, the family's connections to several mysterious deaths raise questions which threaten everything Maggie and Alex hold dear.",
+    "background": "https://image.tmdb.org/t/p/w1280/pIbemkVivwk1SKVvmKlo53edMZt.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.2"
+  }
+]

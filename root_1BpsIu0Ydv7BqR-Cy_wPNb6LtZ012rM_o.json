@@ -565,5 +565,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/suCtNSA0U8Gtb7JxMJ6IfhHJUwa.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive-folder:1ufqSnIaDwfr4W7gygFcG_EECFPZmCQ-p",
+    "type": "movie",
+    "name": "Palm Royale",
+    "poster": "https://image.tmdb.org/t/p/w500/3HDmuo2u2M7s3hWVaDAiYDerODK.jpg",
+    "description": "In 1969, an ambitious woman aspires to cross the line between the haves and have-nots to secure her seat at America's most exclusive, fashionable, and treacherous table: Palm Beach high society.",
+    "background": "https://image.tmdb.org/t/p/w1280/4dUTs2xkExkG3yKPNzxgGwRX6NF.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.2"
   }
 ]

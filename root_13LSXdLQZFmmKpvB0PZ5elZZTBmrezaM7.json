@@ -3305,5 +3305,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/Amaws3yNGpjl8lD2KfhaJHYKrZ2.jpg",
     "released": "2025-01-01",
     "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive-folder:133Cfq1JvXE6n9iQzlf7aMp1GXlFID7Ij",
+    "type": "movie",
+    "name": "The Hunting Wives",
+    "poster": "https://image.tmdb.org/t/p/w500/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+    "description": "Sophie trades New England for East Texas and falls into a wealthy socialite's magnetic orbit — where a clique of housewives hide deadly secrets.",
+    "background": "https://image.tmdb.org/t/p/w1280/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.5"
   }
 ]

@@ -926,5 +926,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive-folder:1R1BanbZGsSvuUBUKyPlvifprdnpQkA81",
+    "type": "movie",
+    "name": "Members Only: Palm Beach",
+    "poster": "https://image.tmdb.org/t/p/w500/shteveRMvIbcdlPsMVqqQeCIGOS.jpg",
+    "description": "Within the exclusive enclaves of Palm Beach County, follow a group of women navigating the unspoken rules, inherited traditions and high-stakes hierarchies of America's most rarefied social circles. In this manicured world of privilege and private clubs, reputations are built over brunch, alliances shift over champagne, and while wealth is ubiquitous, power, influence and access are the true currency.",
+    "background": "https://image.tmdb.org/t/p/w1280/l8K5d5aEc4M6IMyTPDDeis1Aqjj.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "4.5"
   }
 ]

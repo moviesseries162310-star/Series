@@ -666,5 +666,15 @@
     "background": "https://image.tmdb.org/t/p/original/ieysZSBngaild6R825N7kFMDUiY.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1p3uw64J7BnlTHY-lDfp1IQXt68DXuLSA",
+    "type": "movie",
+    "name": "HIS & HERS",
+    "poster": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+    "description": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
+    "background": "https://image.tmdb.org/t/p/w1280/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "5.0"
   }
 ]

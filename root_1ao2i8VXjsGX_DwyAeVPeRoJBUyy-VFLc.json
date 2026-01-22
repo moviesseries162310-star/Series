@@ -1351,5 +1351,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hkrDZkIIANYaOGeaRq373vQKjT5.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:1iREV9lSIgVz6jatC1NKh2_aXZV7TwsN0",
+    "type": "movie",
+    "name": "Steal",
+    "poster": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "description": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
+    "background": "https://image.tmdb.org/t/p/w1280/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.2"
   }
 ]

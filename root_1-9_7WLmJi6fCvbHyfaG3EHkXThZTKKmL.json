@@ -550,5 +550,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
     "description": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
     "background": "https://image.tmdb.org/t/p/w1280/1DmAeDIAN6nvVpgTqiurDPUwuj7.jpg"
+  },
+  {
+    "id": "gdrive-folder:15NMI09s_zD6KjG1XZJZmY-IiO-_aCHoI",
+    "type": "movie",
+    "name": "Free Bert",
+    "poster": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+    "description": "A gloriously messy dad and his equally unfiltered family cause chaos when they try to fit in with the snobby crowd at their elite new school.",
+    "background": "https://image.tmdb.org/t/p/w1280/utwGNSLV2mjicTPmYPwOCFfdxs1.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.0"
   }
 ]

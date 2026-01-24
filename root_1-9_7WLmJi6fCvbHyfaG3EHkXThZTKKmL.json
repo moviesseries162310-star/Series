@@ -560,5 +560,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/utwGNSLV2mjicTPmYPwOCFfdxs1.jpg",
     "released": "2026-01-01",
     "imdbRating": "9.0"
+  },
+  {
+    "id": "gdrive-folder:1uoYEF1dqcO2Yyb6i7Nb-zEKyNq51TkFz",
+    "type": "movie",
+    "name": "Finding Her Edge",
+    "poster": "https://image.tmdb.org/t/p/w500/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
+    "description": "A former ice dancer returns to the rink with an exciting new partner while holding onto feelings for her old one — her first love.",
+    "background": "https://image.tmdb.org/t/p/w1280/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.7"
   }
 ]

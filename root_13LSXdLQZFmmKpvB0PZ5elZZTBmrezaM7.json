@@ -3375,5 +3375,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lJoaiZcYMc8RkmPLROcdS2WQxn9.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1FONtfvCFYQhD31mSapqAb61fzfs0GL5S",
+    "type": "movie",
+    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "poster": "https://image.tmdb.org/t/p/w500/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+    "description": "Merlin, the immortal son of the bard Taliesin and Atlantean Princess Charis, is followed through his tragic upbringing, descent into madness, and shocking disappearance, leading to the legend that surrounds him. Set before King Arthur's birth, Merlin, assumed dead or a myth, reemerges in sub-Roman Britain to unite the fractured kingdoms under threat from Saxon invaders.",
+    "background": "https://image.tmdb.org/t/p/w1280/lDmFwAaHL1kXnAfZeUTieAdUTko.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.3"
   }
 ]

@@ -118,5 +118,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
     "description": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
     "background": "https://image.tmdb.org/t/p/w1280/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg"
+  },
+  {
+    "id": "gdrive-folder:1tI1pommXQWD0X73GxdYEn_ziLrtrisur",
+    "type": "movie",
+    "name": "Vanished",
+    "poster": "https://image.tmdb.org/t/p/w500/KVyfJoW4nO1CATxHrD7oR8rRJH.jpg",
+    "description": "When a romantic getaway to Paris takes a dark turn with the sudden disappearance of her boyfriend Tom aboard a train to the south of France, Alice is plunged into a web of intrigue and danger, uncovering shocking secrets about the man she thought she knew.",
+    "background": "https://image.tmdb.org/t/p/w1280/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.2"
   }
 ]

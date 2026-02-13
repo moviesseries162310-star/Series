@@ -956,5 +956,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zyMMXRpCZoMLYIret8seCZyIlr6.jpg",
     "released": "2026-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1_0nV01erNuVxRc8DcIurWb5a5Au5KVTW",
+    "type": "movie",
+    "name": "Million-Follower Detective",
+    "poster": "https://image.tmdb.org/t/p/w500/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
+    "description": "In this crime thriller, Detective Chen Chia-jen races to unmask Baba the Witch, the viral tarot reader who accurately predicts the deaths of influencers.",
+    "background": "https://image.tmdb.org/t/p/w1280/sMMEQPPe2xwwnF1JgUVNJ1jCV1V.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "10.0"
   }
 ]

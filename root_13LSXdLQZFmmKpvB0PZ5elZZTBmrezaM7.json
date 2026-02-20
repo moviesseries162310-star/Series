@@ -3395,5 +3395,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uJ27pWvKbP369bL9ZsLd5NJwtgz.jpg",
     "released": "2026-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1tbmdfgSvhXCJLk7IN9rJEYI0wiIi1Tl0",
+    "type": "movie",
+    "name": "The Beauty",
+    "poster": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
+    "description": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+    "background": "https://image.tmdb.org/t/p/w1280/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.2"
   }
 ]

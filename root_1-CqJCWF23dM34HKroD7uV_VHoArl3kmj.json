@@ -849,5 +849,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/djAGltv1bVw625yYku4CyA42gq0.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:1fjmMdnb-QLZFcwenuIoZeQ0ccrmk4kvp",
+    "type": "movie",
+    "name": "Crap Happens",
+    "poster": "https://image.tmdb.org/t/p/w500/i3fkDSAZYJoHkU4MgX3RAIazs8a.jpg",
+    "description": "Rapper Toni returns to his hometown for his mother's funeral and suddenly finds himself juggling career dreams and surprise fatherhood to a teenage son.",
+    "background": "https://image.tmdb.org/t/p/w1280/rTTEaQ54i6zUSDGnVyuNbvu86wf.jpg",
+    "released": "2026-01-01",
+    "imdbRating": null
   }
 ]

@@ -564,5 +564,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zzlz3ElVtdm07yixMKMgHdFFkCz.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:14KQfomuvSUV5I15K0sMHKSyW_0UbE5pH",
+    "type": "movie",
+    "name": "Love Story",
+    "poster": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+    "description": "An anthology of sweeping true love stories that captured the world’s attention.",
+    "background": "https://image.tmdb.org/t/p/w1280/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.0"
   }
 ]

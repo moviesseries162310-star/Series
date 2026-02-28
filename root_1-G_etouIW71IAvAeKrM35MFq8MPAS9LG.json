@@ -791,5 +791,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/d6vRDUjTb077WL027hwKOikhIg6.jpg",
     "released": "2019-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1cXP1CkHd9HYmJEofNhp3UfiEXpldoXqz",
+    "type": "movie",
+    "name": "Devil in Disguise: John Wayne Gacy",
+    "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+    "description": "When a teenager goes missing, it becomes clear that many young men and boys have disappeared at the hands of John Wayne Gacy, the prime suspect.",
+    "background": "https://image.tmdb.org/t/p/w1280/kG2mHHu136bviY53DDpnsyVNKuA.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]

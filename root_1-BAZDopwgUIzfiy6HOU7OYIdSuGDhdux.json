@@ -742,5 +742,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:16vLTeMzJgk6sFbfhhScRRl_sySVcQLZe",
+    "type": "movie",
+    "name": "American Classic",
+    "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
+    "description": "Exiled Broadway star Richard Bean returns to his family's small-town theater, igniting hope and chaos in his wake. As old loves resurface and buried secrets emerge Richard and the town are transformed by the power of making art.",
+    "background": "https://image.tmdb.org/t/p/w1280/WVMkbdvTBalA2uhYX1GdTaQH5Z.jpg",
+    "released": "2026-01-01",
+    "imdbRating": null
   }
 ]

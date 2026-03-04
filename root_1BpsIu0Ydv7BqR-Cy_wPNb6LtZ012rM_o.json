@@ -585,5 +585,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
     "released": "2026-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1rU1UogI9cne6XIJR4BL38-IMKsM_cd5Z",
+    "type": "movie",
+    "name": "Psycho Saiyaan",
+    "poster": "https://image.tmdb.org/t/p/w500/xW8UKl010jOVFmqYhcYDl7neTue.jpg",
+    "description": "Kartik Pandey, a poetic student in Ujjain, becomes obsessed with Charu, convinced she is his destiny. When she disappears, he learns she’s trapped by ruthless gangster-politician Huntry Chauhan. Infiltrating Huntry’s haveli, Kartik enters a violent world of manipulation where love turns toxic, obsession deepens, and sanity blurs into madness.",
+    "background": "https://image.tmdb.org/t/p/w1280/q1lBzlEPpG2Q3CtFIoHEvQv0Zee.jpg",
+    "released": "2026-01-01",
+    "imdbRating": null
   }
 ]

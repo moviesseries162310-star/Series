@@ -150,5 +150,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
     "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
     "background": "https://image.tmdb.org/t/p/w1280/gzOIymABxmetAECXtazEYCpMmfb.jpg"
+  },
+  {
+    "id": "gdrive-folder:1ZZaiggcTAqH32FcaPJfPtFa5J-BrvpeN",
+    "type": "movie",
+    "name": "Young Sherlock",
+    "poster": "https://image.tmdb.org/t/p/w500/bb3XIgEUKSboZzDVYbfAi1w381A.jpg",
+    "description": "Sherlock Holmes is a disgraced young man - raw and unfiltered - when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
+    "background": "https://image.tmdb.org/t/p/w1280/5jtztRxN7x8QrMfBQ0uLdRgfXHc.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.7"
   }
 ]

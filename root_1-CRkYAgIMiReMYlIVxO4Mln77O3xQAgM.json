@@ -1061,5 +1061,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/LdlhYdSZmp34pBlxPJ2mfPS9Ew.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive-folder:1ZYubzw6mR4Q5lzWmLIg2B6a-WxOk91mX",
+    "type": "movie",
+    "name": "Blue Therapy",
+    "poster": "https://image.tmdb.org/t/p/w500/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
+    "description": "Six couples work with a relationship expert through intensive therapy to resolve their problems. After tough sessions, they must decide whether to stay together or part ways.",
+    "background": "https://image.tmdb.org/t/p/w1280/mY1XhTMKEbl8LhZrQpa3zoFiMcw.jpg",
+    "released": "2026-01-01",
+    "imdbRating": null
   }
 ]
